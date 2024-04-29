@@ -26,3 +26,5 @@ protocolhelper::create_protocol(protocol_type = "sfp",
                                 template = "sfp",
                                 from_docx = "SVP-114 Bemonstering waterkolom oppervlaktewater versie 1.0.docx",
                                 render = TRUE)
+#protocolhelper::check_all("sfp_114_nl")
+#protocolhelper::render_protocol()

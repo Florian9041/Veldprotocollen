@@ -1,4 +1,21 @@
 # Benodigdheden
+```{=html}
+<!--
+Tabel 1 geeft een overzicht van de benodigde apparatuur en materiaal voor het nemen van een waterstaal. Onder 5.1, 5.2 en 5.3 worden een aantal specifieke benodigdheden van verdere uitleg voorzien.
+-->
+```
+
+```{r}
+benodigdheden <- c("Staalnameformulieren & protocol of digitaal alternatief", "klembord, potlood en slijper", "laarzen, lieslaarzen, waadpak (plaatsafhankelijk)","latex handschoenen (poederloos)", "plooimeter", "fototoestel", "recipiënten", "staalname-emmer", "maatbeker", "spuiten en filters", "koelbox met koelelementen", "reserverecipiënten en hersluitbare zakjes", "documentatie van het staalnamepunt om dit exact te kunnen localiseren", "hamer om een gat in het ijs te maken")
+```
+
+
+```{=html}
+<!--
+knitr::kable(x, caption = "Tabel 1. Checklist benodigd veldmateriaal")
+-->
+```
+
 
 ## Apparatuur
 
