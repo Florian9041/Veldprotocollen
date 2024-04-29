@@ -12,13 +12,15 @@ remotes::install_github("inbo/protocolhelper")
 
 library(protocolhelper)
 protocolhelper::create_protocol(protocol_type = "sfp", 
-                                title = "SVP-114 Bemonstering waterkolom", 
-                                short_title = "SVP-114", 
+                                title = "Bemonstering waterkolom", 
+                                short_title = "staalname waterkolom", 
                                 authors = "Kevin Scheers",
                                 orcids = "0000-0002-4756-4247",
-                                reviewers = c("An Leyssen", "Luc Denys", "Geert De Knijf", "Toon Westra"),
+                                reviewers = "An Leyssen", "Luc Denys", "Geert De Knijf", "Toon Westra",
                                 file_manager = "Toon Westra",
+                                theme = "water",
+                                language = "nl",
+                                protocol_number = "114",
                                 from_docx = "SVP-114 Bemonstering waterkolom oppervlaktewater versie 1.0.docx",
                                 render = TRUE)
 
-#protocolhelper::check_all("sfp-114-nl")
