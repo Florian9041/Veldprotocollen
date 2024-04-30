@@ -1,31 +1,85 @@
 # Benodigdheden
 
+```{=html}
+<!--
+Checklist benodigd veldmateriaal
+- staalnameformulieren & protocol
+- klembord, potlood & slijper
+- laarzen, lieslaarzen & waadpak (site-afhankelijk)
+- latex handschoenen (poederloos)
+- spuitfles met ultrapuur water (UPW)
+- staalname-emmer
+- maatbeker
+- digitale veldmeter type WTW Multi 3430 inclusief elektroden
+- buffers voor controle en kalibratie van de digitale veldmeter
+-->
+```
+
+
 ## Apparatuur
 
+### Digitale veldmeter type WTW Multi 3430
 ```{=html}
 <!--
-Opsomming van de apparatuur die nodig is en verwijzingen naar de `sip`'s (Standaard Instrument Procedure; `<protocol-code>-YYYY.NN`) indien die er zijn.
-Indien geen specifiek `sip`'s voorhanden, illustreer de toegelaten apparatuur met foto's, geef het exacte type apparatuur mee, ...
+De digitale veldmeter type WTW Multi 3430 (figuur 1) met elektrode voor zuurtegraad (pH), geleidbaarheid (EC) en zuurstof, wordt gebruikt voor metingen op het terrein. Met dit toestel worden de volgende variabelen gemeten: temperatuur (°C), zuurtegraad, geleidbaarheid (µS/cm bij lage waarden of mS/cm bij hoge waarden), saliniteit (g/kg), opgeloste zuurstof (mg/l) en zuurstofverzadiging (%). Voor richtlijnen en een handleiding voor het algemeen gebruik, kalibratie en onderhoud van dit toestel verwijzen we naar protocol SIP-055B. 
+Zorg dat de batterij van het toestel steeds voldoende is opgeladen voorafgaand aan een veldmeting. Probeer het toestel steeds proper en droog te houden en te bewaren en te vervoeren in de daarvoor voorziene koffer. Bescherm het toestel zoveel mogelijk tegen extreme temperaturen (temperaturen lager dan 0°C en boven 30°C); het toestel is spatwaterdicht.
 -->
 ```
-## Materiaal
 
 ```{=html}
 <!--
-Opsomming van gebruikte materialen.
-Duidelijk aangeven welke materialen toelaatbaar zijn, welke volumes, afmetingen, materiaal, ... 
-Vermeld bijvoorbeeld niet staalnamepotje, maar wel: vierkant flesje, volume 250 ml, gegradueerd, vervaardigd uit `PE`, met afsluitbare deksel uit `PP`.
+![Figuur 1. Digitale veldmeter type WTW Multi 3430, met zuurstof-, zuurtegraad- en geleidbaarheidselektrode en bijhorende buffer- en kalibratievloeistoffen.]("./data/SVP115_figuur_1.jpg")
 -->
 ```
+
+
+### Geleidbaarheidselektrode, type WTW IDS TetraCon 925
+```{=html}
+<!--
+Elektrode voor het meten van de conductiviteit (EC) (µS/cm bij lage waarden of mS/cm bij hoge waarden) en saliniteit (g/kg) (figuur 1).
+-->
+```
+### Zuurstofelektrode, type WTW IDS FDO925
+```{=html}
+<!--
+Elektrode voor het meten van opgeloste zuurstof (mg/l) en zuurstofverzadiging (%) (figuur 1).
+-->
+```
+### Zuurtegraadelektrode, type WTW IDS Sentix 940
+```{=html}
+<!--
+Elektrode voor het meten van zuurtegraad (pH) (eq/l) en temperatuur (°C) (figuur 1).
+-->
+```
+
+## Materiaal
+
+### Staalname-emmer
+```{=html}
+<!--
+Witte emmer (polyethyleen), inhoud 10 l, met maatmarkering en giettuit (figuur 2).
+-->
+```
+### Maatbeker
+```{=html}
+<!--
+Doorzichtige maatbeker (polypropyleen), inhoud 2 l, met maatmarkering, giettuit en handvat (figuur 2).
+-->
+```
+
+```{=html}
+<!--
+[Figuur 2. Maatbeker (links) en staalname-emmer (rechts).]("./data/SVP115_figuur_2.jpg")
+-->
+```
+
+
 ## Reagentia en oplossingen (indien van toepassing)
 
 ```{=html}
 <!--
-Een opsomming van reagentia, welke zuiverheid, volume, veiligheidsvoorschriften.
-Bijvoorbeeld. Zwavelzuur (`H2SO4`), geconcentreerd (96%), pro analyse en veiligheidsinfo (sterk zuur, bijtend, gebruik handschoenen, bril en masker bij gebruik)
-Een opsomming van oplossingen, welke zuiverheid, volume, veiligheidsvoorschriften.
-Indien deze oplossingen zelf worden bereid, vermeld dan ook de bereidingswijze.
-bijvoorbeeld: Zwavelzuur `1M`: verdun zwavelzuur geconcentreerd 18 maal met `ultrapuur` water.
-Opgelet: giet altijd zwavelzuur bij water en nooit omgekeerd!
+__Kaliumchloride (KCl) 3M (K4x):__ KCL wordt gebruikt als bewaarvloeistof in het beschermkapje van de zuurtegraadelektrode zodat deze niet kan uitdrogen. Er zijn geen veiligheidsrisico’s verbonden aan het gebruik van dit product.
+__Buffers:__ voor de kalibratie van de digitale veldmeter worden de volgende buffers gebruikt: pH 7 (ST-pH7) en pH 4 (ST-pH4) (voor de zuurtegraad) en 1413 μS/cm (ST-EC1413) (voor de geleidbaarheidselektrode). Er zijn geen veiligheidsrisico’s verbonden aan het gebruik van deze producten.
+__UPW:__ Ultrapuur water, sterk gezuiverd water dat vrijwel volledig vrij is van o.a. carbonaat, magnesium- en calciumionen, organische verbindingen en gassen; het heeft een elektrische geleidbaarheid van ongeveer 0,055 µS/cm bij 25 °C. UPW wordt in een spuitfles gebruikt voor het afspoelen van de elektroden. Er zijn geen veiligheidsrisico’s verbonden aan het gebruik van dit product.
 -->
 ```

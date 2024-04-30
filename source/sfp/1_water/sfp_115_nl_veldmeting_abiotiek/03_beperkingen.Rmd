@@ -2,8 +2,6 @@
 
 ```{=html}
 <!--
-Alleen in te vullen indien van toepassing.
-Bespreek onder welke condities het protocol niet gebruikt kan worden of wanneer afwijkingen nodig zijn ten opzichte van het standaard protocol.
-Vermeld hier ook mogelijke interferenties, knelpunten, ...
+Er zijn geen beperkingen tot deze procedure anders dan de beperkingen die het nemen van een mengstaal (zie SVP-114), waarop deze veldmeting gebeurt, onmogelijk maken.
 -->
 ```

@@ -2,7 +2,6 @@
 
 ```{=html}
 <!--
-Een samenvattende opsomming van de te volgen stappen.
-Gebruik eventueel een stroomschema indien dit het protocol kan verduidelijken.
+N.v.t.
 -->
 ```
