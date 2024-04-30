@@ -28,3 +28,19 @@ protocolhelper::create_protocol(protocol_type = "sfp",
                                 render = TRUE)
 #protocolhelper::check_all("sfp_114_nl")
 #protocolhelper::render_protocol()
+
+protocolhelper::create_protocol(protocol_type = "sfp", 
+                                title = "Veldmeting abiotiek oppervlaktewater met behulp van WTW Multi 3430 veldmeter", 
+                                short_title = "Veldmeting abiotiek", 
+                                authors = "Kevin Scheers",
+                                orcids = "0000-0002-4756-4247",
+                                date = Sys.Date(),
+                                reviewers = "An Leyssen, Luc Denys, Geert De Knijf, Toon Westra",
+                                file_manager = "Toon Westra",
+                                version_number = get_version_number(),
+                                theme = "water",
+                                language = "nl",
+                                protocol_number = "115",
+                                template = "sfp",
+                                from_docx = "SVP-115 Veldmeting abiotiek oppervlaktewater met behulp van WTW Multi 3430 veldmeter versie1.0.docx",
+                                render = TRUE)
