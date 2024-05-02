@@ -1,7 +1,0 @@
-# Samenvatting
-
-```{=html}
-<!--
-N.v.t.
--->
-```

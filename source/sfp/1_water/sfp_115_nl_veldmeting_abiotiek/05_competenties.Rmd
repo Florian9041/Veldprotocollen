@@ -1,8 +1,0 @@
-# Vereiste competenties
-
-```{=html}
-<!--
-- Nemen van een mengstaal (SVP-114)
-- Bediening veldmeter type WTW MUlti 3430 (SIP-055B)
--->
-```

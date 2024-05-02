@@ -1,7 +1,0 @@
-# Vereiste competenties
-
-```{=html}
-<!--
-N.v.t.
--->
-```
