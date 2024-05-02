@@ -44,7 +44,8 @@ protocolhelper::create_protocol(protocol_type = "sfp",
                                 template = "sfp",
                                 from_docx = "SVP-115 Veldmeting abiotiek oppervlaktewater met behulp van WTW Multi 3430 veldmeter versie1.0.docx",
                                 render = TRUE)
-
+# deze code werkt voor SVP-114
+## na toevoeging van "../" bij file path
 library(protocolhelper)
 create_sfp(title = "Bemonstering waterkolom oppervlaktewater",
            short_title = "waterstaalname_plas",
