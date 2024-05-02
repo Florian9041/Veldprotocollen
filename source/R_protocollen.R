@@ -14,7 +14,7 @@ library(protocolhelper)
 protocolhelper::create_protocol(protocol_type = "sfp", 
                                 title = "Bemonstering waterkolom", 
                                 short_title = "staalname waterkolom", 
-                                authors = "Kevin Scheers",
+                                authors = "Scheers, Kevin",
                                 orcids = "0000-0002-4756-4247",
                                 date = Sys.Date(),
                                 reviewers = "An Leyssen, Luc Denys, Geert De Knijf, Toon Westra",
@@ -44,3 +44,19 @@ protocolhelper::create_protocol(protocol_type = "sfp",
                                 template = "sfp",
                                 from_docx = "SVP-115 Veldmeting abiotiek oppervlaktewater met behulp van WTW Multi 3430 veldmeter versie1.0.docx",
                                 render = TRUE)
+
+library(protocolhelper)
+create_sfp(title = "Bemonstering waterkolom oppervlaktewater",
+           short_title = "waterstaalname_plas",
+           authors = "Scheers, Kevin",
+           orcids = "0000-0002-4756-4247",
+           date = "2021-02-17", 
+           reviewers = "An Leyssen, Luc Denys, Geert De Knijf, Toon Westra", 
+           file_manager = "Toon Westra", 
+           theme = "water",
+           language = "nl",
+           from_docx = 
+             file.path("from_docx", 
+                       "SVP-114 Bemonstering waterkolom oppervlaktewater versie 1.0.docx"),
+           protocol_number = "114", 
+           render = FALSE)
