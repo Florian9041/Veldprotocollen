@@ -57,6 +57,6 @@ create_sfp(title = "Bemonstering waterkolom oppervlaktewater",
            language = "nl",
            from_docx = 
              file.path("from_docx", 
-                       "./data/SVP-114 Bemonstering waterkolom oppervlaktewater versie 1.0.docx"),
+                       "../data/SVP-114 Bemonstering waterkolom oppervlaktewater versie 1.0.docx"),
            protocol_number = "114", 
            render = FALSE)
