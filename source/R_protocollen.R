@@ -61,3 +61,18 @@ create_sfp(title = "Bemonstering waterkolom oppervlaktewater",
                        "../data/SVP-114 Bemonstering waterkolom oppervlaktewater versie 1.0.docx"),
            protocol_number = "114", 
            render = FALSE)
+
+create_spp(title = "Bemonstering waterkolom oppervlaktewater",
+           short_title = "waterstaalname_plas",
+           authors = "Scheers, Kevin",
+           orcids = "0000-0002-4756-4247",
+           date = "2021-02-17", 
+           reviewers = "An Leyssen, Luc Denys, Geert De Knijf, Toon Westra", 
+           file_manager = "Toon Westra", 
+           theme = "water",
+           language = "nl",
+           from_docx = 
+             file.path("from_docx", 
+                       "../data/SVP-115 Bemonstering waterkolom oppervlaktewater versie 1.0.docx"),
+           protocol_number = "114", 
+           render = FALSE)

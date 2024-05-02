@@ -7,4 +7,3 @@ Het is van groot belang om bij het waden zeer voorzichtig te werk te gaan om ver
 De omgevingsfactoren die invloed kunnen hebben op de kwaliteit van het staal (zie 2.3 Beperkingen tot de procedure) worden op het staalnameformulier in het opmerkingenveld ingevuld. Deze worden in een databank ingevoerd.
 
 Het waterstaal kan veranderingen ondergaan ten gevolge van chemische en biologische processen. Om dit tegen te gaan is het belangrijk om de hoeveelheid zuurstof in de recipiënten bij de staalname te beperken en de stalen nadien koel en donker te bewaren. Bij de laboratoriumanalyses van de stalen wordt steeds de zuurtegraad en conductiviteit opnieuw gemeten ter controle en vergeleken met de veldmetingen om eventuele afwijkingen te signaleren.
-
