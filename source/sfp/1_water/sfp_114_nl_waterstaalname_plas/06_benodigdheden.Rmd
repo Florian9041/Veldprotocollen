@@ -32,7 +32,9 @@ Doorzichtige maatbeker (polypropyleen), inhoud 2 l, met maatmarkering, giettuit 
 
 **Recipiënten**
 
-Voor elk staal zijn er, bij standaard staalname, zeven recipiënten voorzien (figuur 2). Elk recipiënt is voorzien van een label met een unieke code en een streepjescode per staal voor invoer in LIMS (= laboratory information management system). Ieder recipiënt dient voor een specifieke analyse (tabel 2). Gebruik daarom steeds de correcte recipiënten (nummers refereren naar figuur 2):
+Voor elk staal zijn er, bij standaard staalname, zeven recipiënten voorzien (figuur 2). Elk recipiënt is voorzien van een label met een unieke code en een streepjescode per staal voor invoer in LIMS (= laboratory information management system). Ieder recipiënt dient voor een specifieke analyse (
+
+tabel 2). Gebruik daarom steeds de correcte recipiënten (nummers refereren naar figuur 2):
 
 -   **1**, Fles 1.000 ml (**FL-1000R**, **FL-1000W**): vierkante fles van 1.000 ml met smalle hals en platte bodem, vervaardigd uit high density polyethyleen (HDPE), gegradueerd, met rode schroefdop.
 
