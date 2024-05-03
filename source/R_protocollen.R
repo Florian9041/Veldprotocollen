@@ -87,7 +87,7 @@ create_spp(title = "Abiotische staalname stilstaande oppervlaktewateren",
            date = "2021-02-17", 
            reviewers = "An Leyssen, Luc Denys, Geert De Knijf, Toon Westra", 
            file_manager = "Toon Westra",
-           project_name = NULL,
+           project_name = "Abiotiek_stilstaand",
            language = "nl",
            from_docx = 
              file.path("from_docx", 
