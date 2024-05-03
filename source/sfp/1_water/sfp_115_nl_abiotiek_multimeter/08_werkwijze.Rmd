@@ -18,7 +18,7 @@ Geef het toestel steeds voldoende tijd om te stabiliseren en lees de waarden die
 
 Na elke meting dienen de elektrodes te worden gespoeld met de spuitfles met gedemineraliseerd water (UPW). Na de laatste meting van de dag wordt ook het beschermkapje van de zuurtegraadelektrode gespoeld met gedemineraliseerd water en wordt dit opnieuw gevuld met KCl als bewaarvloeistof. Ook het sponsje in de beschermhuls van de zuurstofmeter wordt gespoeld en opnieuw bevochtigd met UPW en het overtollige water wordt uitgeknepen.
 
-8.1.1 Stappenplan
+**Stappenplan:**
 
 -   neem met de maatbeker een substaal van het mengstaal (voor het nemen van een mengstaal zie SVP-114);
 
@@ -49,4 +49,3 @@ Na elke meting dienen de elektrodes te worden gespoeld met de spuitfles met gede
 ## Registratie en bewaring van resultaten
 
 De gemeten waarden en eventuele opmerkingen worden ingevuld op het analoge (geprefereerd) of digitale staalnameformulier. De metingen worden in een databank bewaard. Bij een analoog staalnameformulier wordt een kopie van het staalnameformulier bewaard door het labo en het origineel door de projectverantwoordelijke.
-
