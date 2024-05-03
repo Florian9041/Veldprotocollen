@@ -94,3 +94,19 @@ create_spp(title = "Abiotische staalname stilstaande oppervlaktewateren",
                        "../data/SPP-116 Abiotische staalname stilstaande oppervlaktewateren versie1.0.docx"),
            protocol_number = "116", 
            render = FALSE)
+
+# SPP-117
+create_spp(title = "Abiotische staalname waterlopen",
+           short_title = "Abiotiek_waterlopen",
+           authors = "Leyssen, An",
+           orcids = "0000-0003-3537-286X",
+           date = "2021-02-17", 
+           reviewers = "Kevin Scheers, Jo Packet, Luc Denys, Geert De Knijf, Vincent Smeekens, Toon Westra", 
+           file_manager = "Toon Westra",
+           project_name = "Abiotiek_waterlopen",
+           language = "nl",
+           from_docx = 
+             file.path("from_docx", 
+                       "../data/SPP-117 Abiotische staalname waterlopen versie1.0.docx"),
+           protocol_number = "117", 
+           render = FALSE)
