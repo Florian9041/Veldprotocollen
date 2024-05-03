@@ -1,0 +1,32 @@
+# KWALITEITSZORG
+
+## 7.1 Algemene richtlijnen {#algemene-richtlijnen .unnumbered}
+
+-   onderhoud en reinig al het materiaal regelmatig om de kwaliteit te verzekeren en contaminatie te vermijden;
+
+-   kalibreer alle toestellen (elektroden, meetapparaten) en controleer regelmatig het meetmateriaal (meetkoord, vouw- of lintmeter, maatbekers etc.). Herkalibratie kan in bepaalde gevallen nodig zijn;
+
+-   vul het staalnameformulier steeds correct, nauwkeurig, eenduidig en duidelijk leesbaar in met potlood of onuitwisbare, watervaste inkt. Zorg ervoor dat het staalnameformulier niet kan wegwaaien, neem eventueel regelmatig een foto van het formulier uit voorzorg;
+
+-   neem steeds alle relevante protocollen mee in het veld en kijk voor het vertrek steeds na of alle materiaal aanwezig is en op batterijen werkende toestellen voldoende opgeladen zijn;
+
+-   volg de protocollen strikt op om niet af te wijken van de methodiek en de correctheid van de resultaten te waarborgen;
+
+-   klasseer het staalnameformulier achteraf correct, zodat deze, ook na lange tijd, gemakkelijk te raadplegen zijn.
+
+## 7.2 Specifieke richtlijnen {#specifieke-richtlijnen .unnumbered}
+
+Voor bepaalde werkzaamheden gelden er mogelijk specifieke richtlijnen rond kwaliteitszorg. Hiervoor kan best het hoofdstuk kwaliteitszorg van de deelprotocollen worden geraadpleegd.
+
+## 7.3 Controle op basis van databanken {#controle-op-basis-van-databanken .unnumbered}
+
+Nadat alle metingen van een veldseizoen zijn geregistreerd en beschikbaar zijn gesteld in het LIMS-datawarehouse en/of AquaChem-datawarehouse, worden via query's, kruistabellen, e.d. kwaliteitscontroles uitgevoerd. Bijvoorbeeld:
+
+-   Zijn voor alle gemeten staalnamepunten gegevens beschikbaar?
+
+-   Zijn alle codes van de [staalnamepunten]{.mark} correct gespeld?
+
+-   Zijn er ontbrekende (veld)metingen?
+
+-   Detecteren van uitschieters, ...
+
