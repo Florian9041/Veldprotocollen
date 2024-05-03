@@ -3,14 +3,20 @@ delete_merged_file: true
 rmd_files:
 - index.Rmd
 - NEWS.md
-- 01_afhankelijkheden.Rmd
-- 02_onderwerp.Rmd
-- 03_benodigdheden.Rmd
-- 04_werkwijze.Rmd
-- 05_kwaliteitszorg.Rmd
-- 06_veiligheid.Rmd
-- 07_referenties.Rmd
-- 08_subprotocols.Rmd
+- 01_wijzigingen_vorige_versies.Rmd
+- 02_afhankelijkheden.Rmd
+- 03_onderwerp.Rmd
+- 04_beperkingen_tot_de_procedure.Rmd
+- 05_principe.Rmd
+- 06_vereiste_competenties.Rmd
+- 07_benodigdheden.Rmd
+- 08_werkwijze.Rmd
+- 09_kwaliteitszorg.Rmd
+- 10_veiligheid.Rmd
+- 11_samenvatting.Rmd
+- 12_referenties.Rmd
+- 13_bijlage.Rmd
+- 14_subprotocols.Rmd
 output_dir: ../../../../docs/spp/Abiotiek_waterlopen/spp_117_nl_abiotiek_waterlopen
 language:
   label:
