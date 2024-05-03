@@ -1,4 +1,4 @@
-# VEILIGHEID
+# Veiligheid
 
 Tijdens het veldwerk gelden volgende veiligheidsregels:
 
@@ -14,5 +14,4 @@ Neem steeds een hark of stevige stok mee als steun bij het doorwaden van de wate
 
 Tijdens een staalname in water draagt men waterdichte handschoenen; na de opname wast men de handen met ontsmettende, fosfaatvrije zeep om het risico op besmetting te beperken.
 
-De [staalnemer]{.mark} beschikt steeds over een GSM en een lijst van nuttige telefoonnummers.
-
+De staalnemer beschikt steeds over een GSM en een lijst van nuttige telefoonnummers.

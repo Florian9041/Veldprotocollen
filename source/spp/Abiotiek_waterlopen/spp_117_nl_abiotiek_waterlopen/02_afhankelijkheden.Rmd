@@ -1,26 +1,25 @@
-# AFHANKELIJKHEDEN (Indien van toepassing)
+# Afhankelijkheden
 
 Procedures waarnaar in deze procedure wordt verwezen:
 
 -   SOP-005: Richtlijnen voor conserveren van watermonsters, chemische variabelen en praktische handelingen op terrein
 
--   [SOP-007: Ontvangst en beheer van watermonsters door het laboratorium]{.mark}
+-   SOP-007: Ontvangst en beheer van watermonsters door het laboratorium
 
--   [SVP-112: Veiligheid in en rond water (in opmaak)]{.mark}
+-   SVP-112: Veiligheid in en rond water (in opmaak)
 
--   SVP-113: [Bepaling doorzicht waterkolom oppervlaktewater op basis van de Secchi-diepte]{.mark}
+-   SVP-113: Bepaling doorzicht waterkolom oppervlaktewater op basis van de Secchi-diepte
 
--   SVP-114: [Bemonstering waterkolom oppervlaktewater]{.mark}
+-   SVP-114: Bemonstering waterkolom oppervlaktewater
 
--   SVP-115: [Veldmeting abiotiek oppervlaktewater met behulp van een WTW Multi 3430 veldmeter]{.mark}
+-   SVP-115: Veldmeting abiotiek oppervlaktewater met behulp van een WTW Multi 3430 veldmeter
 
--   SVP-118: Be[paling stroomsnelheid]{.mark} (gepland)
+-   SVP-118: Bepaling stroomsnelheid (gepland)
 
--   [SVP-015: Bioveiligheidsmaatregelen (in opmaak)]{.mark}
+-   SVP-015: Bioveiligheidsmaatregelen (in opmaak)
 
--   [SPP-116: Abio]{.mark}tische staalname stilstaande oppervlaktewateren
+-   SPP-116: Abiotische staalname stilstaande oppervlaktewateren
 
 Procedures die verwijzen naar deze procedure:
 
 -   SPP-116: Abiotische staalname stilstaande oppervlaktewateren
-
