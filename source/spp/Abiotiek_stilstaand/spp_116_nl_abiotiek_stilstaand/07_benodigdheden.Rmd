@@ -1,9 +1,9 @@
 # Benodigdheden
 
-Tabel \@ref(tab:Tabel1) geeft een overzicht van de benodigde apparatuur en materiaal voor het uitvoeren van een abiotische staalname. Onder 5.1, 5.2 en 5.3 worden een aantal specifieke benodigdheden van verdere uitleg voorzien.
+Tabel 1 geeft een overzicht van de benodigde apparatuur en materiaal voor het uitvoeren van een abiotische staalname. Onder 5.1, 5.2 en 5.3 worden een aantal specifieke benodigdheden van verdere uitleg voorzien.
 
 |                                                              |                                                  |
-|:-------------------------------------------------------------|:-------------------------------------------------|
+|:--------------------------------------|:---------------------------------|
 | **Algemene benodigdheden**                                   | **Specifieke benodigdheden deelprotocollen**     |
 | ◻ staalnameformulier                                         | ◻ staalname-emmer (SVP-114, SVP-115)             |
 | ◻ klembord, potlood en slijper                               | ◻ maatbeker (SVP-114, SVP-115)                   |
@@ -15,7 +15,7 @@ Tabel \@ref(tab:Tabel1) geeft een overzicht van de benodigde apparatuur en mater
 | ◻ relevante protocollen (SVP-113, SVP-114, SVP-115, SPP-116) | ◻ veldmeter type WTW Multi 3430 (SVP-115)        |
 |                                                              | ◻ spuitfles met ultrapuur water (UPW) (SVP-115)  |
 
-: (#tab:Tabel1) Checklist benodigd veldmateriaal.
+Tabel 1: Checklist benodigd veldmateriaal.
 
 ## Apparatuur
 

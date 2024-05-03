@@ -24,9 +24,8 @@ Nadat alle metingen van een veldseizoen zijn geregistreerd en beschikbaar zijn g
 
 -   Zijn voor alle gemeten staalnamepunten gegevens beschikbaar?
 
--   Zijn alle codes van de [staalnamepunten]{.mark} correct gespeld?
+-   Zijn alle codes van de staalnamepunten correct gespeld?
 
 -   Zijn er ontbrekende (veld)metingen?
 
 -   Detecteren van uitschieters, ...
-

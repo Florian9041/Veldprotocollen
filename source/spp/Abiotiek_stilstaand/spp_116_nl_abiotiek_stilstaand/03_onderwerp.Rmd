@@ -23,4 +23,3 @@ Deze procedure beschrijft de staalname en de bepaling van enkele veldkenmerken i
 **Toepassingsgebied**:
 
 Deze gestandaardiseerde procedure kan toegepast worden bij alle typen stilstaande oppervlaktewateren. Voor stromende wateren verwijzen we naar het projectprotocol SPP-117.
-
