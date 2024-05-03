@@ -1,0 +1,26 @@
+# Onderwerp
+
+## Definities en afkortingen
+
+**Mengstaal**: een staal bekomen door het mengen van meerdere deelstalen. De deelstalen worden op verschillende, doorgaans ruimtelijk gespreide, plaatsen binnen eenzelfde staalnamelocatie genomen.
+
+**oppervlaktewater**: al het permanent of op geregelde tijdstippen stilstaande of stromende water op het landoppervlak, aan de landzijde van de basislijn vanaf waar de breedte van de territoriale zee wordt gemeten (DIW 2003).
+
+[**Staal of monster:** een portie die geselecteerd wordt uit een grotere hoeveelheid.]{.mark} In dit protocol bestaat het staal steeds uit een hoeveelheid water van de staalnamelocatie.
+
+**Staalnamelocatie** of **steekproefeenheid**: het waterlichaam (poel, vijver, plas ...) waarvan de abiotische karakterisatie wordt beoogd en waarbinnen het staalnamepunt zich bevind.
+
+**Staalnamepunt:** de exacte plaats binnen de staalnamelocatie waarop de abiotische staalname wordt uitgevoerd.
+
+**UPW**: ultrapuur water is sterk gezuiverd water dat vrijwel volledig vrij is van o.a. carbonaat, mangnesium- en calciumionen, organische verbindingen en gassen; het heeft een elketrische geleidbaarheid van ongeveer 0,055 µS/cm bij 25 °C.
+
+## Doelstelling en toepassingsgebied
+
+**Doelstelling**:
+
+Deze procedure beschrijft de staalname en de bepaling van enkele veldkenmerken in stilstaande oppervlaktewateren, met het oog op de bepaling van de fysisch-chemische toestand van de waterkolom. Dit projectprotocol is een overkoepelend protocol waarin voor specifieke werkzaamheden wordt verwezen naar andere protocollen. Dit protocol is specifiek ontworpen voor de monitoring in kader van de meetnetten natuurlijk milieu (Vanderhaeghe et al. 2020).
+
+**Toepassingsgebied**:
+
+Deze gestandaardiseerde procedure kan toegepast worden bij alle typen stilstaande oppervlaktewateren. Voor stromende wateren verwijzen we naar het projectprotocol SPP-117.
+

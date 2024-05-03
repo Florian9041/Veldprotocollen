@@ -1,0 +1,14 @@
+# Bijlage
+
+Bijlage 1: Voorbeeld staalnameformulier
+
+|                         |                     |                |                    |                                         |                |                |            |      |             |     |     |             |
+|:-----|------|------|------|------|------|------|------|------|------|------|------|------|
+| **VELDFORMULIER WATER** |                     |                |                    |                                         |                |                |            |      |             |     |     |             |
+| **Project:**            | **Project:**        |                |                    | **Print Datum:**                        |                |                |            |      |             |     |     |             |
+| **Projectverantw.**     | **Projectverantw.** |                |                    | **Verwachte datum binnenkomst stalen:** |                |                |            |      |             |     |     |             |
+| Staal ID                | Staal ID            | Monsternemer   | Datum bemonstering | Temp                                    | pH             | EC             | Saliniteit | O2   | Saturatie   | SD  | WD  | Opmerkingen |
+| Labo ID                 | Veld ID             | xx             | jjjj/mm/dd         | °C                                      |                | µS/cm          | g/kg       | mg/l | \%          | m   | m   |             |
+| NA                      | NA                  | volledige naam |                    |                                         | 4,95\<pH\<5,05 | 1399\<EC\<1428 |            |      | 99\<O2\<101 |     |     |             |
+| Controle Start          |                     |                |                    |                                         |                |                |            |      |             |     |     |             |
+| Controle Eind           |                     |                |                    |                                         |                |                |            |      |             |     |     |             |
