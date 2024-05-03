@@ -1,0 +1,52 @@
+# BENODIGDHEDEN
+
+Tabel \@ref(tab:Tabel1) geeft een overzicht van de benodigde apparatuur en materiaal voor het nemen van een waterstaal.
+
+Table: (#tab:Tabel1) Checklist benodigd veldmateriaal.
+
++---------------------------------------------------------------------------+---------------------------------------------------------------------+
+| **algemene benodigdheden**                                                | **specifieke benodigdheden deelprotocollen**                        |
++---------------------------------------------------------------------------+---------------------------------------------------------------------+
+| -   staalnameformulier (analoog of digitaal)                              | -   staalname-emmer (SVP-114, SVP-115)                              |
++---------------------------------------------------------------------------+---------------------------------------------------------------------+
+| -   klembord, potlood en slijper                                          | -   maatbeker + reserve (SVP-114, SVP-115)                          |
++---------------------------------------------------------------------------+---------------------------------------------------------------------+
+| -   laarzen, lieslaarzen, waadpak (site-afhankelijk)                      | -   spuiten en filters (SVP-114)                                    |
++---------------------------------------------------------------------------+---------------------------------------------------------------------+
+| -   latex handschoenen (poederloos)                                       | -   recipiënten (SVP-114)                                           |
++---------------------------------------------------------------------------+---------------------------------------------------------------------+
+| -   plooimeter                                                            | -   reserve recipiënt, hersluitbare zakjes (SVP-114)                |
++---------------------------------------------------------------------------+---------------------------------------------------------------------+
+| -   fototoestel                                                           | -   koelbox met koelelementen (SVP-114)                             |
++---------------------------------------------------------------------------+---------------------------------------------------------------------+
+| -   documentatie van het staalnamepunt om dit te kunnen lokaliseren       | -   Secchi-schijf (SVP-113)                                         |
++---------------------------------------------------------------------------+---------------------------------------------------------------------+
+| -   relevante protocollen (SVP-113, SVP-114, SVP-115, SPP-117, SVP-118)   | -   veldmeter type WTW Multi 3430 (SVP-115)                         |
++---------------------------------------------------------------------------+---------------------------------------------------------------------+
+|                                                                           | -   stroomsnelheidsmeter (SVP-118)                                  |
++---------------------------------------------------------------------------+---------------------------------------------------------------------+
+|                                                                           | -   spuitfles met ultrapuur water (SVP-115)                         |
++---------------------------------------------------------------------------+---------------------------------------------------------------------+
+|                                                                           | -   horizontale waterhapper, voorzien van een voldoende lang touw   |
++---------------------------------------------------------------------------+---------------------------------------------------------------------+
+|                                                                           | -   telescopische steel met maatbeker                               |
++---------------------------------------------------------------------------+---------------------------------------------------------------------+
+
+## Apparatuur
+
+zie apparatuur van de deelprotocols (SVP-115 voor de veldmeting abiotiek oppervlaktewater m.b.v. WTW Multi 3430 veldmeter en SVP-118 voor stroomsnelheid)
+
+## Materiaal
+
+zie materiaal van de deelprotocols (SVP-113, SVP-114, SVP-115), aangevuld met:
+
+-   horizontale waterhapper (bijvoorbeeld Friedinger, Van Dorn, ...) voorzien van nylonkoord of touw;
+
+-   polyethyleen of polypropyleen maatbeker van 2 liter (+ reserve) voorzien van gietmondje en handvat;
+
+-   telescopische steel + maatbeker.
+
+## Reagentia en oplossingen (indien van toepassing)
+
+zie reagentia en oplossingen van de deelprotocols (SVP-114 en SVP-115)
+

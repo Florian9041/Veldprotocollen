@@ -1,0 +1,10 @@
+# KWALITEITSZORG
+
+zie kwaliteitszorg van deelprotocols (SVP-113, SVP-114, SVP-115)
+
+Neem steeds alle relevante protocollen mee in het veld en kijk voor het vertrek steeds na of al het materiaal aanwezig is en of op batterijen werkende toestellen voldoende zijn opgeladen. De checklist van het veldmateriaal staat in Tabel \@ref(tab:Tabel1).
+
+Het [staalnameformulier]{.mark} wordt volledig ingevuld. Net na de staalname wordt gecontroleerd of alle velden van het [staalnameformulier]{.mark} werden ingevuld.
+
+Nadat alle metingen van een veldseizoen zijn geregistreerd en beschikbaar zijn in het LIMS-datawarehouse, worden via query's, kruistabellen, e.d. kwaliteitscontroles uitgevoerd. Bijvoorbeeld: Zijn voor alle gemeten staalnamepunten gegevens beschikbaar? Zijn alle codes van de [staalnamepunten]{.mark} correct gespeld? Zijn er ontbrekende (veld)metingen? Detecteren van uitschieters, \...
+
