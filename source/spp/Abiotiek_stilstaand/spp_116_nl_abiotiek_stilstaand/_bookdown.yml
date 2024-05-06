@@ -3,20 +3,20 @@ delete_merged_file: true
 rmd_files:
 - index.Rmd
 - NEWS.md
-- 01_wijzigingen_vorige_versie.Rmd
-- 02_afhankelijkheden.Rmd
-- 03_onderwerp.Rmd
-- 04_beperkingen_tot_de_procedure.Rmd
-- 05_principe.Rmd
-- 06_vereiste_competenties.Rmd
-- 07_benodigdheden.Rmd
-- 08_werkwijze.Rmd
-- 09_kwaliteitszorg.Rmd
-- 10_veiligheid.Rmd
+- 01_afhankelijkheden.Rmd
+- 02_onderwerp.Rmd
+- 03_benodigdheden.Rmd
+- 04_werkwijze.Rmd
+- 05_kwaliteitszorg.Rmd
+- 06_veiligheid.Rmd
+- 07_referenties.Rmd
+- 08_principe.Rmd
+- 09_beperkingen_tot_de_procedure.Rmd
+- 10_vereiste_competenties.Rmd
 - 11_samenvatting.Rmd
-- 12_referenties.Rmd
-- 13_bijlage.Rmd
-- 14_subprotocols.Rmd
+- 12_bijlage.Rmd
+- 13_subprotocols.Rmd
+- 14_wijzigingen_vorige_versie.Rmd
 output_dir: ../../../../docs/spp/Abiotiek_stilstaand/spp_116_nl_abiotiek_stilstaand
 language:
   label:
