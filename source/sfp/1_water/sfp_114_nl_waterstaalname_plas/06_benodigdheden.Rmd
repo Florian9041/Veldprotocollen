@@ -3,7 +3,7 @@
 Tabel 1 geeft een overzicht van de benodigde apparatuur en materiaal voor het nemen van een waterstaal. Onder 5.1, 5.2 en 5.3 worden een aantal specifieke benodigdheden van verdere uitleg voorzien.
 
 |                                                           |                                                                         |
-|:--------------------------------|:--------------------------------------|
+|:-------------------------------|:---------------------------------------|
 | ◻ staalnameformulieren & protocol of digitaal alternatief | ◻ staalname-emmer                                                       |
 | ◻ klembord, potlood en slijper                            | ◻ maatbeker                                                             |
 | ◻ laarzen, lieslaarzen, waadpak (plaatsafhankelijk)       | ◻ spuiten en filters                                                    |
@@ -51,7 +51,7 @@ tabel 2). Gebruik daarom steeds de correcte recipiënten (nummers refereren naar
 ![Figuur 2: De 7 recipiënten die tijdens de staalname worden gevuld.](./media/image2.jpg){width="6.299660979877515in" height="3.763888888888889in"}
 
 |               |                                    |                                                                                                |
-|:-----------------|:-----------------|:-----------------------------------|
+|:--------------|:--------------|:-----------------------------------------|
 | **recipiënt** | **beschrijving**                   | **analyse**                                                                                    |
 | 1             | 1 l                                | zwevende stof                                                                                  |
 | 2             | 250 ml                             | chlorofyl *a*                                                                                  |
@@ -83,6 +83,6 @@ Het staalnameformulier (zie SPP-116 bijlage 1) kan zowel digitaal als analoog in
 
 Een ruime, dubbelwandige en goed afsluitende koelbox en ingevroren koelelementen zijn nodig om de stalen tijdens de veldwerkzaamheden en transport goed te kunnen conserveren. De koelelementen mogen geen defecten (lekkage) vertonen. De koelelementen en de koelbox zijn bij voorkeur gemakkelijk te reinigen om contaminatie van de stalen te voorkomen.
 
-## Reagentia en oplossingen
+## Reagentia en oplossingen (indien van toepassing)
 
 **Salpeterzuur 65%, suprapur, (HNO~3~):** Sterk zuur dat zowel irriterend en corrosief werkt. Draag handschoenen bij gebruik, voorkom inademing van dampen en contact met de huid en ogen.
