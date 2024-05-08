@@ -28,4 +28,6 @@ Nadat alle metingen van een veldseizoen zijn geregistreerd en beschikbaar zijn g
 
 -   Zijn er ontbrekende (veld)metingen?
 
--   Detecteren van uitschieters, ...
+-   Detecteren van uitschieters
+
+-   ...
