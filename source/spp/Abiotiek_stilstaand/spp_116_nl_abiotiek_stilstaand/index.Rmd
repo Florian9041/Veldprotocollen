@@ -1,17 +1,17 @@
 ---
-title: Bemonstering waterkolom oppervlaktewater
+title: Abiotische staalname stilstaande oppervlaktewateren
 author:
 - name: Scheers, Kevin
   orcid: 0000-0002-4756-4247
 date: '2021-02-17'
 reviewers: An Leyssen, Luc Denys, Geert De Knijf, Toon Westra
 file_manager: Toon Westra
-protocol_code: sfp-114-nl
+protocol_code: spp-116-nl
 version_number: '2024.02'
 language: nl
 lang: nl
-template_name: sfp
-theme: water
+template_name: spp
+project_name: Abiotiek_stilstaand
 site: bookdown::bookdown_site
 bibliography: referenties.yaml
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/research-institute-for-nature-and-forest.csl
@@ -27,7 +27,7 @@ Hieronder vind je de verschillende onderdelen van een protocol.
 In de bijhorende losse `Rmd` bestanden vind je een beschrijving wat er bij elk onderdeel vermeld moet worden.
 Het is in die bestanden dat je moet editeren.
 Niet alle onderdelen zijn altijd van toepassing.
-Laat in die gevallen de titels staan en vermeld expliciet "niet van toepassing".
+Laat in die gevallen de titel hoofdingen staan en vermeld expliciet "niet van toepassing".
 -->
 ```
 ```{r setup, include=FALSE}
@@ -62,9 +62,9 @@ tibble(
   protocolcode = metadata[["protocol_code"]],
   versienummer = metadata[["version_number"]],
   taal = metadata[["language"]],
-  thema = metadata[["theme"]]
+  projectnaam = metadata[["project_name"]]
 ) %>%
-  pander::pander(split.tables = Inf)
+  kable()
 ```
 
 ```{r results="asis"}

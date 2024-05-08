@@ -64,16 +64,49 @@ create_sfp(title = "Bemonstering waterkolom oppervlaktewater",
 
 # SVP-115
 create_spp(title = "Bemonstering waterkolom oppervlaktewater",
-           short_title = "waterstaalname_plas",
+           short_title = "waterkolom_opp",
            authors = "Scheers, Kevin",
            orcids = "0000-0002-4756-4247",
            date = "2021-02-17", 
            reviewers = "An Leyssen, Luc Denys, Geert De Knijf, Toon Westra", 
            file_manager = "Toon Westra", 
-           theme = "water",
+           theme = NULL,
+           project_name = NULL,
            language = "nl",
            from_docx = 
              file.path("from_docx", 
                        "../data/SVP-115 Bemonstering waterkolom oppervlaktewater versie 1.0.docx"),
-           protocol_number = "114", 
+           protocol_number = "115", 
+           render = FALSE)
+
+# SPP-116
+create_spp(title = "Abiotische staalname stilstaande oppervlaktewateren",
+           short_title = "Abiotiek_stilstaand",
+           authors = "Scheers, Kevin",
+           orcids = "0000-0002-4756-4247",
+           date = "2021-02-17", 
+           reviewers = "An Leyssen, Luc Denys, Geert De Knijf, Toon Westra", 
+           file_manager = "Toon Westra",
+           project_name = "Abiotiek_stilstaand",
+           language = "nl",
+           from_docx = 
+             file.path("from_docx", 
+                       "../data/SPP-116 Abiotische staalname stilstaande oppervlaktewateren versie1.0.docx"),
+           protocol_number = "116", 
+           render = FALSE)
+
+# SPP-117
+create_spp(title = "Abiotische staalname waterlopen",
+           short_title = "Abiotiek_waterlopen",
+           authors = "Leyssen, An",
+           orcids = "0000-0003-3537-286X",
+           date = "2021-02-17", 
+           reviewers = "Kevin Scheers, Jo Packet, Luc Denys, Geert De Knijf, Vincent Smeekens, Toon Westra", 
+           file_manager = "Toon Westra",
+           project_name = "Abiotiek_waterlopen",
+           language = "nl",
+           from_docx = 
+             file.path("from_docx", 
+                       "../data/SPP-117 Abiotische staalname waterlopen versie1.0.docx"),
+           protocol_number = "117", 
            render = FALSE)

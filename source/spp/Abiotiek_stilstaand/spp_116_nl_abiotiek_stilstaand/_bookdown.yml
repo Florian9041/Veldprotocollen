@@ -1,0 +1,34 @@
+book_filename: spp_116_nl_abiotiek_stilstaand.Rmd
+delete_merged_file: true
+rmd_files:
+- index.Rmd
+- NEWS.md
+- 01_afhankelijkheden.Rmd
+- 02_onderwerp.Rmd
+- 03_benodigdheden.Rmd
+- 04_werkwijze.Rmd
+- 05_kwaliteitszorg.Rmd
+- 06_veiligheid.Rmd
+- 07_referenties.Rmd
+- 08_principe.Rmd
+- 09_beperkingen_tot_de_procedure.Rmd
+- 10_vereiste_competenties.Rmd
+- 11_samenvatting.Rmd
+- 12_bijlage.Rmd
+- 13_subprotocols.Rmd
+- 14_wijzigingen_vorige_versie.Rmd
+output_dir: ../../../../docs/spp/Abiotiek_stilstaand/spp_116_nl_abiotiek_stilstaand
+language:
+  label:
+    fig: 'Figuur '
+    tab: 'Tabel '
+    eq: 'Vergelijking '
+    thm: 'Theorema '
+    lem: 'Lemma '
+    def: 'Definitie '
+    cor: 'Bijgevolg '
+    prp: 'Propositie '
+    ex: 'Voorbeeld '
+    proof: 'Bewijs. '
+    remark: 'Opmerking. '
+

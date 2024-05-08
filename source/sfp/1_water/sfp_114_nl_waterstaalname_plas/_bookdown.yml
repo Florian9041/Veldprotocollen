@@ -5,7 +5,7 @@ rmd_files:
 - NEWS.md
 - 01_afhankelijkheden.Rmd
 - 02_onderwerp.Rmd
-- 03_beperkingen_van_het_protocol.Rmd
+- 03_beperkingen.Rmd
 - 04_principe.Rmd
 - 05_competenties.Rmd
 - 06_benodigdheden.Rmd
