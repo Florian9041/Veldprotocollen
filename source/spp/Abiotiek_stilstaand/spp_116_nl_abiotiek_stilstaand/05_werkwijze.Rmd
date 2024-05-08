@@ -2,7 +2,7 @@
 
 ## Uitvoering
 
-Alle stappen van het veldprotocol worden hieronder kort omschreven. Een checklist van alle stappen is terug te vinden onder paragraaf 9. Samenvatting. Voor een gedetailleerde uitleg over specifieke handelingen wordt verwezen naar de deelprotocollen SVP-113, SVP-114 en SVP-115.
+Alle stappen van het veldprotocol worden hieronder kort omschreven. Voor een gedetailleerde uitleg over specifieke handelingen wordt verwezen naar de deelprotocollen SVP-113, SVP-114 en SVP-115.
 
 ### **Voorbereiding terreinwerk**
 
@@ -10,9 +10,9 @@ Voor de start van de veldcampagne worden de staalnamelocaties in de Aquamorf dat
 
 Indien er bij aanvang van de meetcampagne twijfel is over de geschiktheid van de staalnamelocatie wordt deze voor het uitvoeren van de eerste meting geprospecteerd. De geschiktheid van de staalnamelocatie is geheel afhankelijk van de habitatwaardigheid: enkel locaties die voldoen aan de criteria voor het habitattype waarvoor de staalnamelocatie geselecteerd is worden als geschikt bevonden en weerhouden. Tijdens de prospectie wordt de staalnamelocatie beoordeeld op de aanwezigheid van de criteria voor dat specifieke habitattype. De criteria, die op enkele uitzonderingen na gebaseerd zijn op de aanwezigheid van specifieke kensoorten, zijn terug te vinden in Scheers et al. (2016). Indien het meetpunt niet habitatwaardig is wordt deze locatie niet weerhouden en indien nodig vervangen.
 
-Controleer bij de aanvang van het veldwerk steeds de lijst van benodigdheden (zie 5. Benodigdheden).
+Controleer bij de aanvang van het veldwerk steeds de lijst van benodigdheden (zie 4. Benodigdheden).
 
-### **Lokaliseren en documenteren van [staalname]{.mark}locatie**
+### **Lokaliseren en documenteren van staalnamelocatie**
 
 Lokaliseer aan de hand van overzichtskaarten van de staalnamelocatie en/of een standaard GPS (nauwkeurigheid ca. 3-5 m) het staalnamepunt dat opgenomen is in de Aquamorf databank in ArcGIS. Indien er op de staalnamelocatie vooraf nog geen specifiek staalnamepunt werd vastgelegd, bijvoorbeeld bij de eerste staalname op die locatie, wordt een goed bereikbaar punt gekozen dat zo representatief mogelijk is voor het waterlichaam (niet in een gracht of in een uitloper van de plas, niet bij een in- of uitstroompunt en bij voorkeur zo dicht mogelijk bij het diepste punt). Het is belangrijk om voorafgaand aan een staalname de toestand van de staalnamelocatie te bekijken en documenteren. Op het staalnameformulier worden eventuele factoren en (potentiële) contaminanten die een invloed kunnen hebben op de kwaliteit van het staal (hoge PVI, hoge dichtheden van fytoplankton, waterbloei, etc.), kleur en/of troebelheid van het water, aanwezigheid en dikte van ijs, droogval, problemen met of meldingen van de digitale veldmeter, etc. in het opmerkingenveld ingevuld. Deze opmerkingen kunnen later geraadpleegd worden ter verklaring van afwijkende metingen. Neem bij elke staalname en/of veldmeting steeds een overzichtsfoto en eventueel detailfoto's zodat dit later kan worden geraadpleegd.
 
@@ -22,7 +22,7 @@ Zie deelprotocol SVP-114: Bemonstering waterkolom oppervlaktewater aan de hand v
 
 ### **Uitvoering veldmetingen**
 
-### Zie deelprotocol SVP-115: Veldmeting abiotiek oppervlaktewater met behulp van WTW Multi 3430 veldmeter.
+Zie deelprotocol SVP-115: Veldmeting abiotiek oppervlaktewater met behulp van WTW Multi 3430 veldmeter.
 
 **Vullen van recipiënten voor het laboratorium (protocol SVP-114)**
 
