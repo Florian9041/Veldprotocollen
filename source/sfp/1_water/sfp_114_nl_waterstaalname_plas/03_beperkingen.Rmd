@@ -1,4 +1,4 @@
-# Beperkingen van het protocol
+# 3 Beperkingen van het protocol
 
 In bepaalde omstandigheden, vooral ten gevolge van specifieke weersomstandigheden, kan het protocol niet (volledig) gevolgd worden. Bij onweer met (kans op-) blikseminslag kan de veiligheid van de staalnemer niet worden gegarandeerd. Bij vriestemperaturen kan de staalnamelocatie bedekt zijn door een dikke laag ijs, of kan de waterkolom geheel bevroren zijn, zodat het onmogelijk, of niet wenselijk is om een staal te nemen. Ook als er geen of zeer weinig water boven de waterbodem aanwezig is, is een staalname niet, of niet op de voorgeschreven manier, mogelijk. Wanneer er geen staal kan genomen worden, wordt dit steeds vermeld op het staalnameformulier in het opmerkingenveld met vermelding van de reden.
 
