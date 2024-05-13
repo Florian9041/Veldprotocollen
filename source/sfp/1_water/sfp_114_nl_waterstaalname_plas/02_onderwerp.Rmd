@@ -1,6 +1,6 @@
-# 2 Onderwerp
+# Onderwerp
 
-## 2.1 Definities en afkortingen
+## Definities en afkortingen
 
 Hieronder worden enkele vaktechnische termen en afkortingen gedefinieerd.
 
@@ -24,6 +24,6 @@ Hieronder worden enkele vaktechnische termen en afkortingen gedefinieerd.
 
 **Waterkolom:** de diepte van het water van de waterspiegel (het wateroppervlak) tot de onderwaterbodem.
 
-## 2.2 Doelstelling en toepassingsgebied
+## Doelstelling en toepassingsgebied
 
 Dit protocol beschrijft een methode voor het nemen van een waterstaal als schepstaal met een maatbeker en staalname-emmer in oppervlaktewater voor analyse van de watersamenstelling. Dit staal is enkel representatief voor de watersamenstelling nabij de oppervlakte. Het staal wordt vervolgens geanalyseerd in een analytisch laboratorium, met als doel de fysisch-chemische toestand van het oppervlaktewater op een specifieke plaats en tijdstip te bepalen, maar kan ook gebruikt worden om ter plaatse door middel van apparatuur of testkits bepaalde kenmerken onmiddellijk te bepalen. Voor een representatief beeld van de fysisch-chemische toestand is het doorgaans nodig om de staalname en metingen meermaals in de tijd te herhalen. In dit document behandelen we het veldmateriaal, de werkwijze, de randvoorwaarden, veiligheidsnormen en andere richtlijnen voor de staalname, het transport en de voorbereiding van waterstalen voor verdere analyse in het laboratorium. De beschreven methode is specifiek gericht op oppervlaktewater en is dus niet bedoeld voor grondwater of kustwateren.
