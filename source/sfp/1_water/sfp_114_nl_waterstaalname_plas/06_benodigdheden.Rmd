@@ -2,21 +2,27 @@
 
 Tabel 1 geeft een overzicht van de benodigde apparatuur en materiaal voor het nemen van een waterstaal. Onder 7.1, 7.2 en 7.3 worden een aantal specifieke benodigdheden van verdere uitleg voorzien.
 
-|                                                         |                                                                       |
-|:-------------------------------|:---------------------------------------|
-| staalnameformulieren & protocol of digitaal alternatief | staalname-emmer                                                       |
-| klembord, potlood en slijper                            | maatbeker                                                             |
-| laarzen, lieslaarzen, waadpak (plaatsafhankelijk)       | spuiten en filters                                                    |
-| latex handschoenen (poederloos)                         | koelbox met koelelementen                                             |
-| plooimeter                                              | reserverecipiënten en hersluitbare zakjes                             |
-| fototoestel                                             | documentatie van het staalnamepunt om dit exact te kunnen lokaliseren |
-| recipiënten                                             | hamer om een gat in het ijs te maken                                  |
++:------------------------------------------------------------+:--------------------------------------------------------------------------+
+| -   staalnameformulieren & protocol of digitaal alternatief | -   staalname-emmer                                                       |
++-------------------------------------------------------------+---------------------------------------------------------------------------+
+| -   klembord, potlood en slijper                            | -   maatbeker                                                             |
++-------------------------------------------------------------+---------------------------------------------------------------------------+
+| -   laarzen, lieslaarzen, waadpak (plaatsafhankelijk)       | -   spuiten en filters                                                    |
++-------------------------------------------------------------+---------------------------------------------------------------------------+
+| -   latex handschoenen (poederloos)                         | -   koelbox met koelelementen                                             |
++-------------------------------------------------------------+---------------------------------------------------------------------------+
+| -   plooimeter                                              | -   reserverecipiënten en hersluitbare zakjes                             |
++-------------------------------------------------------------+---------------------------------------------------------------------------+
+| -   fototoestel                                             | -   documentatie van het staalnamepunt om dit exact te kunnen lokaliseren |
++-------------------------------------------------------------+---------------------------------------------------------------------------+
+| -   recipiënten                                             | -   hamer om een gat in het ijs te maken                                  |
++-------------------------------------------------------------+---------------------------------------------------------------------------+
 
 Tabel 1: Checklist benodigd veldmateriaal.
 
 ## Apparatuur
 
-n.v.t.
+Niet van toepassing
 
 ## Materiaal
 
@@ -50,16 +56,23 @@ tabel 2). Gebruik daarom steeds de correcte recipiënten (nummers refereren naar
 
 ![Figuur 2: De 7 recipiënten die tijdens de staalname worden gevuld.](./media/image2.jpg){width="6.299660979877515in" height="3.763888888888889in"}
 
-|               |                                    |                                                                                                |
-|:----------------|:----------------|:--------------------------------------|
-| **recipiënt** | **beschrijving**                   | **analyse**                                                                                    |
-| 1             | 1 l                                | zwevende stof                                                                                  |
-| 2             | 250 ml                             | chlorofyl *a*                                                                                  |
-| 3             | 250 ml                             | bicarbonaatbepaling (TAP-TAM), IC (ionenuitwisselingschromatografie), controle pH en EC, kleur |
-| 4             | 100 ml                             | TP (totaalfosfor), KjN (Kjelldahl-stikstof), COD (chemisch zuurstofverbruik)                   |
-| 5             | Falcon 50 ml rode dop              | reservestaal                                                                                   |
-| 6             | Falcon 50 ml blauwe dop            | DOC (opgelost organisch koolstof)                                                              |
-| 7             | 30 ml met 300 µl salpeterzuur (1%) | ICP (metalen)                                                                                  |
++:---------------+:-----------------------------------+:-----------------------------------------------------------------------------------------------+
+| **recipiënt**  | **beschrijving**                   | **analyse**                                                                                    |
++----------------+------------------------------------+------------------------------------------------------------------------------------------------+
+| 1              | 1 l                                | zwevende stof                                                                                  |
++----------------+------------------------------------+------------------------------------------------------------------------------------------------+
+| 2              | 250 ml                             | chlorofyl *a*                                                                                  |
++----------------+------------------------------------+------------------------------------------------------------------------------------------------+
+| 3              | 250 ml                             | bicarbonaatbepaling (TAP-TAM), IC (ionenuitwisselingschromatografie), controle pH en EC, kleur |
++----------------+------------------------------------+------------------------------------------------------------------------------------------------+
+| 4              | 100 ml                             | TP (totaalfosfor), KjN (Kjelldahl-stikstof), COD (chemisch zuurstofverbruik)                   |
++----------------+------------------------------------+------------------------------------------------------------------------------------------------+
+| 5              | Falcon 50 ml rode dop              | reservestaal                                                                                   |
++----------------+------------------------------------+------------------------------------------------------------------------------------------------+
+| 6              | Falcon 50 ml blauwe dop            | DOC (opgelost organisch koolstof)                                                              |
++----------------+------------------------------------+------------------------------------------------------------------------------------------------+
+| 7              | 30 ml met 300 µl salpeterzuur (1%) | ICP (metalen)                                                                                  |
++----------------+------------------------------------+------------------------------------------------------------------------------------------------+
 
 Tabel 2: Analyses die uitgevoerd worden op de waterstalen van de respectievelijke recipiënten.
 
