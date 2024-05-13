@@ -6,17 +6,13 @@ rmd_files:
 - 01_wijzigingen_vorige_versies.Rmd
 - 02_afhankelijkheden.Rmd
 - 03_onderwerp.Rmd
-- 04_beperkingen_tot_de_procedure.Rmd
-- 05_principe.Rmd
-- 06_vereiste_competenties.Rmd
-- 07_benodigdheden.Rmd
-- 08_werkwijze.Rmd
-- 09_kwaliteitszorg.Rmd
-- 10_veiligheid.Rmd
-- 11_samenvatting.Rmd
-- 12_referenties.Rmd
-- 13_bijlage.Rmd
-- 14_subprotocols.Rmd
+- 04_benodigdheden.Rmd
+- 05_werkwijze.Rmd
+- 06_kwaliteitszorg.Rmd
+- 07_veiligheid.Rmd
+- 08_referenties.Rmd
+- 09_subprotocols.Rmd
+- 10_bijlage.Rmd
 output_dir: ../../../../docs/spp/Abiotiek_waterlopen/spp_117_nl_abiotiek_waterlopen
 language:
   label:

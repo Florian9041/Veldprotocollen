@@ -1,5 +1,3 @@
 # Bijlage
 
-Bijlage 1: Voorbeeld staalnameformulier
-
-![](images/veldformulier.jpg)
+![Bijlage 1: Voorbeeld staalnameformulier](images/veldformulier.jpg)

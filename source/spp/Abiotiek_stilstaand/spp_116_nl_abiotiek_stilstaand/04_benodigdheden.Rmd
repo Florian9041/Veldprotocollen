@@ -1,30 +1,30 @@
-# Benodigdheden
+# 4 Benodigdheden
 
-Tabel 1 geeft een overzicht van de benodigde apparatuur en materiaal voor het uitvoeren van een abiotische staalname. Onder 5.1, 5.2 en 5.3 worden een aantal specifieke benodigdheden van verdere uitleg voorzien.
+Tabel 1 geeft een overzicht van de benodigde apparatuur en materiaal voor het uitvoeren van een abiotische staalname. Onder 4.1, 4.2 en 4.3 worden een aantal specifieke benodigdheden van verdere uitleg voorzien.
 
-|                                                              |
-|:-------------------------------------------------------------|
-| **Algemene benodigdheden**                                   |
-| ◻ staalnameformulier                                         |
-| ◻ klembord, potlood en slijper                               |
-| ◻ laarzen, lieslaarzen, waadpak (site-afhankelijk)           |
-| ◻ latex handschoenen (poederloos)                            |
-| ◻ plooimeter                                                 |
-| ◻ fototoestel                                                |
-| ◻ documentatie lokalisatie staalnamepunt                     |
-| ◻ relevante protocollen (SVP-113, SVP-114, SVP-115, SPP-116) |
+|                                                            |
+|:-----------------------------------------------------------|
+| **Algemene benodigdheden**                                 |
+| staalnameformulier                                         |
+| klembord, potlood en slijper                               |
+| laarzen, lieslaarzen, waadpak (site-afhankelijk)           |
+| latex handschoenen (poederloos)                            |
+| plooimeter                                                 |
+| fototoestel                                                |
+| documentatie lokalisatie staalnamepunt                     |
+| relevante protocollen (SVP-113, SVP-114, SVP-115, SPP-116) |
 
 Tabel 1: Checklist benodigd veldmateriaal.
 
-## Materiaal
+## 4.1 Materiaal
 
-### **Locatieafhankelijke benodigdheden**
+### 4.1.1 Locatieafhankelijke benodigdheden
 
 Afhankelijk van de diepte en aard van de staalnamelocatie en de ligging van het staalnamepunt kunnen laarzen, lieslaarzen, waadpak en in bepaalde gevallen zelfs een boot nodig zijn. Bij werk vanop een boot of bij steile oevers kan een zwemvest en/of reddingstouw aangeraden of verplicht zijn (zie protocol SVP-112: Veiligheid in en rond water).
 
-### **Staalnameformulier**
+### 4.1.2 Staalnameformulier
 
-Het staalnameformulier (bijlage 1) kan zowel digitaal als analoog ingevuld worden in het veld. Bij voorkeur wordt tijdens de staalname steeds de analoge versie ingevuld, zodat typfouten of problemen bij het opslaan niet mogelijk zijn en tevens een originele versie wordt bewaard om controle op een later tijdstip mogelijk te maken. Het staalnameformulier wordt duidelijk leesbaar en volledig ingevuld met potlood.
+Het staalnameformulier (Bijlage 1) kan zowel digitaal als analoog ingevuld worden in het veld. Bij voorkeur wordt tijdens de staalname steeds de analoge versie ingevuld, zodat typfouten of problemen bij het opslaan niet mogelijk zijn en tevens een originele versie wordt bewaard om controle op een later tijdstip mogelijk te maken. Het staalnameformulier wordt duidelijk leesbaar en volledig ingevuld met potlood.
 
 Op het staalnameformulier worden tijdens de abiotische staalname (volgens het voorgelegde protocol) de volgende gegevens ingevuld:
 

@@ -1,4 +1,4 @@
-# Kwaliteitszorg
+# 8 Kwaliteitszorg
 
 Zorg er steeds voor dat het toestel correct wordt gekalibreerd bij de start van een meting. Houd het toestel, de elektroden en de bijhorende koffer proper en droog. Buffers voor controle en kalibratie dienen, indien niet voor eenmalig gebruik, regelmatig te worden aangevuld en vervangen zodat deze niet verdund of gecontamineerd worden. Voor verdere informatie over het gebruik, kalibratie en onderhoud van dit toestel verwijzen we naar het protocol SIP-055B.
 

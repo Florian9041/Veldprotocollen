@@ -1,4 +1,4 @@
-# Benodigdheden
+# 4 Benodigdheden
 
 Tabel 1 geeft een overzicht van de benodigde apparatuur en materiaal voor het nemen van een waterstaal.
 
@@ -32,11 +32,11 @@ Tabel 1 geeft een overzicht van de benodigde apparatuur en materiaal voor het ne
 
 : Tabel 1: Checklist benodigd veldmateriaal.
 
-## Apparatuur
+## 4.1 Apparatuur
 
 Zie apparatuur van de deelprotocols (SVP-115 voor de veldmeting abiotiek oppervlaktewater m.b.v. WTW Multi 3430 veldmeter en SVP-118 voor stroomsnelheid)
 
-## Materiaal
+## 4.2 Materiaal
 
 Zie materiaal van de deelprotocols (SVP-113, SVP-114, SVP-115), aangevuld met:
 
@@ -46,6 +46,6 @@ Zie materiaal van de deelprotocols (SVP-113, SVP-114, SVP-115), aangevuld met:
 
 -   telescopische steel + maatbeker.
 
-## Reagentia en oplossingen
+## 4.3 Reagentia en oplossingen
 
 zie reagentia en oplossingen van de deelprotocols (SVP-114 en SVP-115)

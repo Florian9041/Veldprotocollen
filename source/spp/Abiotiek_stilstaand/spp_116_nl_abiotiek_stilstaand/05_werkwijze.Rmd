@@ -1,10 +1,10 @@
-# Werkwijze
+# 5 Werkwijze
 
-## Uitvoering
+## 5.1 Uitvoering
 
 Alle stappen van het veldprotocol worden hieronder kort omschreven. Voor een gedetailleerde uitleg over specifieke handelingen wordt verwezen naar de deelprotocollen SVP-113, SVP-114 en SVP-115.
 
-### **Voorbereiding terreinwerk**
+### 5.1.1 Voorbereiding terreinwerk
 
 Voor de start van de veldcampagne worden de staalnamelocaties in de Aquamorf databank in ArcGIS ingevoerd alsook de staalnamepunten (indien deze vooraf gekend zijn, anders worden deze na de eerste meting ingevoerd). Van elke staalnamelocatie worden ten minste twee overzichtskaarten afgedrukt voor lokalisatie in het veld: één met orthofoto en één met een topografische kaart als achtergrond, steeds met de aanduiding van de staalnamelocatie en -code. De XY-coördinaten van de staalnamelocatie worden ingevoerd in een standaard GPS of in een smartphone-applicatie.
 
@@ -12,7 +12,7 @@ Indien er bij aanvang van de meetcampagne twijfel is over de geschiktheid van de
 
 Controleer bij de aanvang van het veldwerk steeds de lijst van benodigdheden (zie 4. Benodigdheden).
 
-### **Lokaliseren en documenteren van staalnamelocatie**
+### 5.1.2 Lokaliseren en documenteren van staalnamelocatie
 
 Lokaliseer aan de hand van overzichtskaarten van de staalnamelocatie en/of een standaard GPS (nauwkeurigheid ca. 3-5 m) het staalnamepunt dat opgenomen is in de Aquamorf databank in ArcGIS. Indien er op de staalnamelocatie vooraf nog geen specifiek staalnamepunt werd vastgelegd, bijvoorbeeld bij de eerste staalname op die locatie, wordt een goed bereikbaar punt gekozen dat zo representatief mogelijk is voor het waterlichaam (niet in een gracht of in een uitloper van de plas, niet bij een in- of uitstroompunt en bij voorkeur zo dicht mogelijk bij het diepste punt). Het is belangrijk om voorafgaand aan een staalname de toestand van de staalnamelocatie te bekijken en documenteren. Op het staalnameformulier worden eventuele factoren en (potentiële) contaminanten die een invloed kunnen hebben op de kwaliteit van het staal (hoge PVI, hoge dichtheden van fytoplankton, waterbloei, etc.), kleur en/of troebelheid van het water, aanwezigheid en dikte van ijs, droogval, problemen met of meldingen van de digitale veldmeter, etc. in het opmerkingenveld ingevuld. Deze opmerkingen kunnen later geraadpleegd worden ter verklaring van afwijkende metingen. Neem bij elke staalname en/of veldmeting steeds een overzichtsfoto en eventueel detailfoto's zodat dit later kan worden geraadpleegd.
 
@@ -20,15 +20,15 @@ Lokaliseer aan de hand van overzichtskaarten van de staalnamelocatie en/of een s
 
 Zie deelprotocol SVP-114: Bemonstering waterkolom oppervlaktewater aan de hand van een waterstaal.
 
-### **Uitvoering veldmetingen**
+### 5.1.3 Uitvoering veldmetingen
 
 Zie deelprotocol SVP-115: Veldmeting abiotiek oppervlaktewater met behulp van WTW Multi 3430 veldmeter.
 
-**Vullen van recipiënten voor het laboratorium (protocol SVP-114)**
+#### **Vullen van recipiënten voor het laboratorium (protocol SVP-114)**
 
 Zie deelprotocol SVP-114: Bemonstering waterkolom oppervlaktewater aan de hand van een waterstaal.
 
-**Secchi-diepte bepalen**
+#### **Secchi-diepte bepalen**
 
 Zie deelprotocol SVP-113: Bepaling doorzicht waterkolom oppervlaktewater op basis van de Secchi-diepte.
 
@@ -46,7 +46,7 @@ De stalen, inclusief een kopie van het staalnameformulier, worden zo snel mogeli
 
 Na de staalname wordt het formulier gedigitaliseerd door de gegevens in te voeren in het digitale staalnameformulier gedeeld door het analytisch labo via Google Drive.
 
-## Registratie en bewaring van resultaten
+## 5.2 Registratie en bewaring van resultaten
 
 -   Voor elk staalnamepunt wordt ter plaatse een analoog staalnameformulier ingevuld (zie hoger). Afwijkingen van de beschreven werkwijze voor het nemen van een mengstaal worden eveneens genoteerd.
 

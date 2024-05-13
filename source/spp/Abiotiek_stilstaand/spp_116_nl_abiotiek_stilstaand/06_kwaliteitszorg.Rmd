@@ -1,6 +1,6 @@
-# KWALITEITSZORG
+# 6 KWALITEITSZORG
 
-## Algemene richtlijnen
+## 6.1 Algemene richtlijnen
 
 -   onderhoud en reinig al het materiaal regelmatig om de kwaliteit te verzekeren en contaminatie te vermijden;
 
@@ -14,11 +14,11 @@
 
 -   klasseer het staalnameformulier achteraf correct, zodat deze, ook na lange tijd, gemakkelijk te raadplegen zijn.
 
-## Specifieke richtlijnen
+## 6.2 Specifieke richtlijnen
 
 Voor bepaalde werkzaamheden gelden er mogelijk specifieke richtlijnen rond kwaliteitszorg. Hiervoor kan best het hoofdstuk kwaliteitszorg van de deelprotocollen worden geraadpleegd.
 
-## Controle op basis van databanken
+## 6.3 Controle op basis van databanken
 
 Nadat alle metingen van een veldseizoen zijn geregistreerd en beschikbaar zijn gesteld in het LIMS-datawarehouse en/of AquaChem-datawarehouse, worden via query's, kruistabellen, e.d. kwaliteitscontroles uitgevoerd. Bijvoorbeeld:
 

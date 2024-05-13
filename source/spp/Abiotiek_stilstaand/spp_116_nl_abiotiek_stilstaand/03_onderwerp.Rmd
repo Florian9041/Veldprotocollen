@@ -1,6 +1,6 @@
-# Onderwerp
+# 3 Onderwerp
 
-## Definities en afkortingen
+## 3.1 Definities en afkortingen
 
 **Mengstaal**: een staal bekomen door het mengen van meerdere deelstalen. De deelstalen worden op verschillende, doorgaans ruimtelijk gespreide, plaatsen binnen eenzelfde staalnamelocatie genomen.
 
@@ -14,7 +14,7 @@
 
 **UPW**: ultrapuur water is sterk gezuiverd water dat vrijwel volledig vrij is van o.a. carbonaat, mangnesium- en calciumionen, organische verbindingen en gassen; het heeft een elketrische geleidbaarheid van ongeveer 0,055 µS/cm bij 25 °C.
 
-## Doelstelling en toepassingsgebied
+## 3.2 Doelstelling en toepassingsgebied
 
 **Doelstelling**:
 
