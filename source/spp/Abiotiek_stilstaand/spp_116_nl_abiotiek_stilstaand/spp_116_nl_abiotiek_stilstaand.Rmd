@@ -1,20 +1,20 @@
 ---
-title: "Abiotische staalname stilstaande oppervlaktewateren"
+title: Abiotische staalname stilstaande oppervlaktewateren
 author:
 - name: Scheers, Kevin
-  orcid: "0000-0002-4756-4247"
-date: "2021-02-17"
+  orcid: 0000-0002-4756-4247
+date: '2021-02-17'
 reviewers: An Leyssen, Luc Denys, Geert De Knijf, Toon Westra
 file_manager: Toon Westra
-protocol_code: "spp-116-nl"
-version_number: '2024.03'
+protocol_code: spp-116-nl
+version_number: '2024.07'
 language: nl
 lang: nl
 template_name: spp
 project_name: Abiotiek_stilstaand
 site: bookdown::bookdown_site
 bibliography: referenties.yaml
-csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/research-institute-for-nature-and-forest.csl"
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/research-institute-for-nature-and-forest.csl
 url: https://inbo.github.io/protocols/
 github_repo: inbo/protocolsource
 ---
@@ -75,7 +75,7 @@ sprintf("Controleer [deze tabel](../%s.html){target=\"_blank\"} om te zien of ee
 
 # Wijzigingen t.o.v. vorige versies
 
-## [2024.03](../2024.03/index.html)
+## [2024.07](../2024.07/index.html)
 
 -   ...
 
@@ -95,6 +95,7 @@ Gesorteerd van recent naar oud.
 - Eerste versie van het protocol
 -->
 ```
+
 <!--chapter:end:NEWS.md-->
 
 # Wijzigingen vorige versie
@@ -135,7 +136,7 @@ Procedures die verwijzen naar deze procedure:
 
 **oppervlaktewater**: al het permanent of op geregelde tijdstippen stilstaande of stromende water op het landoppervlak, aan de landzijde van de basislijn vanaf waar de breedte van de territoriale zee wordt gemeten (DIW 2003).
 
-[**Staal of monster:** een portie die geselecteerd wordt uit een grotere hoeveelheid.]{.mark} In dit protocol bestaat het staal steeds uit een hoeveelheid water van de staalnamelocatie.
+**Staal of monster:** een portie die geselecteerd wordt uit een grotere hoeveelheid. In dit protocol bestaat het staal steeds uit een hoeveelheid water van de staalnamelocatie.
 
 **Staalnamelocatie** of **steekproefeenheid**: het waterlichaam (poel, vijver, plas ...) waarvan de abiotische karakterisatie wordt beoogd en waarbinnen het staalnamepunt zich bevind.
 
@@ -157,31 +158,31 @@ Deze gestandaardiseerde procedure kan toegepast worden bij alle typen stilstaand
 
 # Benodigdheden
 
-Tabel 1 geeft een overzicht van de benodigde apparatuur en materiaal voor het uitvoeren van een abiotische staalname. Onder 5.1, 5.2 en 5.3 worden een aantal specifieke benodigdheden van verdere uitleg voorzien.
+Tabel 1 geeft een overzicht van de benodigde apparatuur en materiaal voor het uitvoeren van een abiotische staalname. Onder 4.1 worden een aantal specifieke benodigdheden van verdere uitleg voorzien.
 
-|                                                              |
-|:-------------------------------------------------------------|
-| **Algemene benodigdheden**                                   |
-| ◻ staalnameformulier                                         |
-| ◻ klembord, potlood en slijper                               |
-| ◻ laarzen, lieslaarzen, waadpak (site-afhankelijk)           |
-| ◻ latex handschoenen (poederloos)                            |
-| ◻ plooimeter                                                 |
-| ◻ fototoestel                                                |
-| ◻ documentatie lokalisatie staalnamepunt                     |
-| ◻ relevante protocollen (SVP-113, SVP-114, SVP-115, SPP-116) |
+|                                                            |
+|:-----------------------------------------------------------|
+| **Algemene benodigdheden**                                 |
+| staalnameformulier                                         |
+| klembord, potlood en slijper                               |
+| laarzen, lieslaarzen, waadpak (site-afhankelijk)           |
+| latex handschoenen (poederloos)                            |
+| plooimeter                                                 |
+| fototoestel                                                |
+| documentatie lokalisatie staalnamepunt                     |
+| relevante protocollen (SVP-113, SVP-114, SVP-115, SPP-116) |
 
 Tabel 1: Checklist benodigd veldmateriaal.
 
 ## Materiaal
 
-### **Locatieafhankelijke benodigdheden**
+### Locatieafhankelijke benodigdheden
 
 Afhankelijk van de diepte en aard van de staalnamelocatie en de ligging van het staalnamepunt kunnen laarzen, lieslaarzen, waadpak en in bepaalde gevallen zelfs een boot nodig zijn. Bij werk vanop een boot of bij steile oevers kan een zwemvest en/of reddingstouw aangeraden of verplicht zijn (zie protocol SVP-112: Veiligheid in en rond water).
 
-### **Staalnameformulier**
+### Staalnameformulier
 
-Het staalnameformulier (bijlage 1) kan zowel digitaal als analoog ingevuld worden in het veld. Bij voorkeur wordt tijdens de staalname steeds de analoge versie ingevuld, zodat typfouten of problemen bij het opslaan niet mogelijk zijn en tevens een originele versie wordt bewaard om controle op een later tijdstip mogelijk te maken. Het staalnameformulier wordt duidelijk leesbaar en volledig ingevuld met potlood.
+Het staalnameformulier (Bijlage 1) kan zowel digitaal als analoog ingevuld worden in het veld. Bij voorkeur wordt tijdens de staalname steeds de analoge versie ingevuld, zodat typfouten of problemen bij het opslaan niet mogelijk zijn en tevens een originele versie wordt bewaard om controle op een later tijdstip mogelijk te maken. Het staalnameformulier wordt duidelijk leesbaar en volledig ingevuld met potlood.
 
 Op het staalnameformulier worden tijdens de abiotische staalname (volgens het voorgelegde protocol) de volgende gegevens ingevuld:
 
@@ -215,7 +216,7 @@ Op het staalnameformulier worden tijdens de abiotische staalname (volgens het vo
 
 Alle stappen van het veldprotocol worden hieronder kort omschreven. Voor een gedetailleerde uitleg over specifieke handelingen wordt verwezen naar de deelprotocollen SVP-113, SVP-114 en SVP-115.
 
-### **Voorbereiding terreinwerk**
+### Voorbereiding terreinwerk
 
 Voor de start van de veldcampagne worden de staalnamelocaties in de Aquamorf databank in ArcGIS ingevoerd alsook de staalnamepunten (indien deze vooraf gekend zijn, anders worden deze na de eerste meting ingevoerd). Van elke staalnamelocatie worden ten minste twee overzichtskaarten afgedrukt voor lokalisatie in het veld: één met orthofoto en één met een topografische kaart als achtergrond, steeds met de aanduiding van de staalnamelocatie en -code. De XY-coördinaten van de staalnamelocatie worden ingevoerd in een standaard GPS of in een smartphone-applicatie.
 
@@ -223,7 +224,7 @@ Indien er bij aanvang van de meetcampagne twijfel is over de geschiktheid van de
 
 Controleer bij de aanvang van het veldwerk steeds de lijst van benodigdheden (zie 4. Benodigdheden).
 
-### **Lokaliseren en documenteren van staalnamelocatie**
+### Lokaliseren en documenteren van staalnamelocatie
 
 Lokaliseer aan de hand van overzichtskaarten van de staalnamelocatie en/of een standaard GPS (nauwkeurigheid ca. 3-5 m) het staalnamepunt dat opgenomen is in de Aquamorf databank in ArcGIS. Indien er op de staalnamelocatie vooraf nog geen specifiek staalnamepunt werd vastgelegd, bijvoorbeeld bij de eerste staalname op die locatie, wordt een goed bereikbaar punt gekozen dat zo representatief mogelijk is voor het waterlichaam (niet in een gracht of in een uitloper van de plas, niet bij een in- of uitstroompunt en bij voorkeur zo dicht mogelijk bij het diepste punt). Het is belangrijk om voorafgaand aan een staalname de toestand van de staalnamelocatie te bekijken en documenteren. Op het staalnameformulier worden eventuele factoren en (potentiële) contaminanten die een invloed kunnen hebben op de kwaliteit van het staal (hoge PVI, hoge dichtheden van fytoplankton, waterbloei, etc.), kleur en/of troebelheid van het water, aanwezigheid en dikte van ijs, droogval, problemen met of meldingen van de digitale veldmeter, etc. in het opmerkingenveld ingevuld. Deze opmerkingen kunnen later geraadpleegd worden ter verklaring van afwijkende metingen. Neem bij elke staalname en/of veldmeting steeds een overzichtsfoto en eventueel detailfoto's zodat dit later kan worden geraadpleegd.
 
@@ -231,29 +232,29 @@ Lokaliseer aan de hand van overzichtskaarten van de staalnamelocatie en/of een s
 
 Zie deelprotocol SVP-114: Bemonstering waterkolom oppervlaktewater aan de hand van een waterstaal.
 
-### **Uitvoering veldmetingen**
+### Uitvoering veldmetingen
 
 Zie deelprotocol SVP-115: Veldmeting abiotiek oppervlaktewater met behulp van WTW Multi 3430 veldmeter.
 
-**Vullen van recipiënten voor het laboratorium (protocol SVP-114)**
+#### Vullen van recipiënten voor het laboratorium (protocol SVP-114)
 
 Zie deelprotocol SVP-114: Bemonstering waterkolom oppervlaktewater aan de hand van een waterstaal.
 
-**Secchi-diepte bepalen**
+#### Secchi-diepte bepalen
 
 Zie deelprotocol SVP-113: Bepaling doorzicht waterkolom oppervlaktewater op basis van de Secchi-diepte.
 
 Voor zover mogelijk, wordt de secchi-diepte bepaald op het diepste punt. De secchi-diepte wordt bij voorkeur bepaald in een vegetatieloze of vegetatiearme zone. Let er op dat de secchi-schijf tijdens de meting loodrecht onder het wateroppervlak hangt.
 
-#### **Reinig het gebruikte materiaal**
+#### Reinig het gebruikte materiaal
 
 Na de staalname dient het materiaal grondig gespoeld te worden met water van het staalnamepunt of met het resterende mengstaal. Dit zowel om contaminatie van volgende stalen te beperken als ter naleving van de bioveiligheidsmaatregelen (SVP-015). Voor specifieke reinigingsmaatregelen bij het gebruik van de digitale veldmeter WTW Multi 3430 zie deelprotocol SVP-115.
 
-#### **Aflevering stalen bij het Labo**
+#### Aflevering stalen bij het Labo
 
 De stalen, inclusief een kopie van het staalnameformulier, worden zo snel mogelijk (binnen de tijdspanne van 24 uur na het nemen van het eerste staal) binnengebracht bij het analytisch labo. In het analytisch labo worden de stalen, in afwachting van verdere analyse, in de koelkamer bewaard (zie protocol SVP-007: Ontvangst en beheer van watermonsters door het laboratorium).
 
-#### **Digitaliseer het staalnameformulier**
+#### Digitaliseer het staalnameformulier
 
 Na de staalname wordt het formulier gedigitaliseerd door de gegevens in te voeren in het digitale staalnameformulier gedeeld door het analytisch labo via Google Drive.
 
@@ -271,7 +272,7 @@ Na de staalname wordt het formulier gedigitaliseerd door de gegevens in te voere
 
 <!--chapter:end:05_werkwijze.Rmd-->
 
-# KWALITEITSZORG
+# Kwaliteitszorg
 
 ## Algemene richtlijnen
 
@@ -301,7 +302,9 @@ Nadat alle metingen van een veldseizoen zijn geregistreerd en beschikbaar zijn g
 
 -   Zijn er ontbrekende (veld)metingen?
 
--   Detecteren van uitschieters, ...
+-   Detecteren van uitschieters
+
+-   ...
 
 <!--chapter:end:06_kwaliteitszorg.Rmd-->
 
@@ -354,17 +357,7 @@ if (exists("params")) {
 
 # Bijlage
 
-Bijlage 1: Voorbeeld staalnameformulier
-
-|                         |                     |                |                    |                                         |                |                |            |      |             |     |     |             |
-|:------------------------|---------------------|----------------|--------------------|-----------------------------------------|----------------|----------------|------------|------|-------------|-----|-----|-------------|
-| **VELDFORMULIER WATER** |                     |                |                    |                                         |                |                |            |      |             |     |     |             |
-| **Project:**            | **Project:**        |                |                    | **Print Datum:**                        |                |                |            |      |             |     |     |             |
-| **Projectverantw.**     | **Projectverantw.** |                |                    | **Verwachte datum binnenkomst stalen:** |                |                |            |      |             |     |     |             |
-| Staal ID                | Staal ID            | Monsternemer   | Datum bemonstering | Temp                                    | pH             | EC             | Saliniteit | O2   | Saturatie   | SD  | WD  | Opmerkingen |
-| Labo ID                 | Veld ID             | xx             | jjjj/mm/dd         | °C                                      |                | µS/cm          | g/kg       | mg/l | \%          | m   | m   |             |
-| NA                      | NA                  | volledige naam |                    |                                         | 4,95\<pH\<5,05 | 1399\<EC\<1428 |            |      | 99\<O2\<101 |     |     |             |
-| Controle Start          |                     |                |                    |                                         |                |                |            |      |             |     |     |             |
-| Controle Eind           |                     |                |                    |                                         |                |                |            |      |             |     |     |             |
+![Bijlage 1: Voorbeeld staalnameformulier](images/veldformulier.jpg)
 
 <!--chapter:end:10_bijlage.Rmd-->
+
