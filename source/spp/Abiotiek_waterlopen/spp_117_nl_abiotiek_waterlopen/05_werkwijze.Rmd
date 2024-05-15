@@ -1,14 +1,14 @@
-# 5 Werkwijze
+# Werkwijze
 
-## 5.1 Uitvoering
+## Uitvoering
 
-### 5.1.1 Voorbereiding terreinwerk
+### Voorbereiding terreinwerk
 
--   vooraf worden de XY-coördinaten van de staalnamelocatie ingevoerd in een standaard GPS of in een smartphone-applicatie. Dit is het meest stroomafwaarts gelegen punt van het te bemonsteren 100 meter segment van de waterloop, de steekproefeenheid voor het project meetnetten natuurlijk milieu.
+-   Vooraf worden de XY-coördinaten van de staalnamelocatie ingevoerd in een standaard GPS of in een smartphone-applicatie. Dit is het meest stroomafwaarts gelegen punt van het te bemonsteren 100 meter segment van de waterloop, de steekproefeenheid voor het project meetnetten natuurlijk milieu.
 
--   in juni-september, tijdens een veldbezoek voorafgaand aan de meetcampagne, wordt vastgesteld of het doelhabitat (habitattype 3260) aanwezig is in het waterloopsegment (habitatdefinitie: zie Leyssen et al. 2020 en SVP-403).
+-   In juni-september, tijdens een veldbezoek voorafgaand aan de meetcampagne, wordt vastgesteld of het doelhabitat (habitattype 3260) aanwezig is in het waterloopsegment (habitatdefinitie: zie Leyssen et al. 2020 en SVP-403).
 
-### 5.1.2 Lokaliseren en documenteren van staalnamepunt
+### Lokaliseren en documenteren van staalnamepunt
 
 -   navigeer met behulp van een standaard GPS (nauwkeurigheid ca. 3-5 m) naar de oever van de staalnamelocatie;
 
@@ -16,13 +16,13 @@
 
 ![Figuur 1: Schematische voorstelling van de staalnamelocatie (grijze bol), de zoekzone voor een geschikt staalnamepunt (grijze arcering) en het gekozen staalnamepunt (rode lijn), gelegen tussen de meanders op niet meer dan 100 m van het staalnamelocatie.](./media/Figuur_1.PNG)
 
-### 5.1.3 Secchi-diepte bepalen
+### Secchi-diepte bepalen
 
 zie deelprotocol (SVP-113)
 
 De secchi-diepte wordt bij voorkeur bepaald in een vegetatieloze of vegetatiearme zone en in het midden van de waterloop. Indien de secchi-schijf door te sterke stroming niet loodrecht naar beneden kan worden gelaten, kan ze verzwaard worden. Indien de waterdiepte te groot is om de secchi-diepte al wadend te bepalen; kan dit vanop een nabijgelegen brug, of vanop een verankerde boot, gebeuren en dient dit gedocumenteerd te worden op het staalnameformulier in het opmerkingenveld. De waterdiepte waar de secchi-diepte werd bepaald, wordt eveneens genoteerd.
 
-### 5.1.4 Bepaling stroomsnelheid
+### Bepaling stroomsnelheid
 
 zie deelprotocol (SVP-118): nog te ontwikkelen
 
@@ -38,9 +38,13 @@ De keuze van waterdiepte voor de stroomsnelheidsbepaling dient bij het ontwikkel
 
 -   De meting gebeurt steeds op 0,5 m diepte (vanaf het wateroppervlak gemeten), tenzij de waterloop minder dan 1 m diep is. Dan wordt de meting uitgevoerd op de helft van de waterdiepte.
 
-### 5.1.5 Bemonstering waterkolom en het vullen van de recipiënten
+### Bemonstering waterkolom en het vullen van de recipiënten
 
-zie deelprotocols (SOP-005 en SVP-114); delen van onderstaande werkwijze kunnen later overgebracht worden naar SVP-114. Het mengstaal bestaat uit 3 deelstalen, die gesitueerd zijn langs het dwarsprofiel van de waterloop ter hoogte van het gekozen staalnamepunt (figuur 1) op ca. 0,5 meter waterdiepte (figuur 2). Indien de waterloop minder dan 1 meter diep is, wordt het staal genomen op de helft van de waterdiepte. Indien de waterbodem werd omgewoeld bij de bepaling van secchi-diepte of stroomsnelheid, wordt bij geringe stroming een meter stroomopwaarts gewaad voor deze staalname. Bij de staalname moet vermeden worden om waterbodem mee te bemonsteren, of om te woelen. Het staal wordt indien mogelijk genomen in een vegetatieloze of vegetatiearme zone en niet tussen helofyten. Verstoring van de planten leidt tot resuspensie van hierop aanwezig sediment, neerslag en aangroei en kan het staal contamineren. Desgevallend dient dit bij de opmerkingen op het staalnameformulier vermeld te worden (zie verder). ![Figuur 2: Situering deelstalen (rode stippen in een dwarsprofiel van een waterloop.](./media/Figuur_2.PNG) Om de deelstalen te kunnen nemen in stromend water op een diepte van 0,5 meter, zijn volgende methoden of materiaal aangewezen (in dalende voorkeur):
+zie deelprotocols (SOP-005 en SVP-114); delen van onderstaande werkwijze kunnen later overgebracht worden naar SVP-114. Het mengstaal bestaat uit 3 deelstalen, die gesitueerd zijn langs het dwarsprofiel van de waterloop ter hoogte van het gekozen staalnamepunt (figuur 1) op ca. 0,5 meter waterdiepte (figuur 2). Indien de waterloop minder dan 1 meter diep is, wordt het staal genomen op de helft van de waterdiepte. Indien de waterbodem werd omgewoeld bij de bepaling van secchi-diepte of stroomsnelheid, wordt bij geringe stroming een meter stroomopwaarts gewaad voor deze staalname. Bij de staalname moet vermeden worden om waterbodem mee te bemonsteren, of om te woelen. Het staal wordt indien mogelijk genomen in een vegetatieloze of vegetatiearme zone en niet tussen helofyten. Verstoring van de planten leidt tot resuspensie van hierop aanwezig sediment, neerslag en aangroei en kan het staal contamineren. Desgevallend dient dit bij de opmerkingen op het staalnameformulier vermeld te worden (zie verder).
+
+![Figuur 2: Situering deelstalen (rode stippen in een dwarsprofiel van een waterloop.](./media/Figuur_2.PNG)
+
+Om de deelstalen te kunnen nemen in stromend water op een diepte van 0,5 meter, zijn volgende methoden of materiaal aangewezen (in dalende voorkeur):
 
 -   horizontale waterhapper (type Friedinger, Van Dorn, ...; zie bijlage 10 van Osté et al. 2013): het staal wordt al wadend genomen in de waterloop; eventueel verzwaard indien de waterstroming te sterk is
 
@@ -52,39 +56,39 @@ zie deelprotocols (SOP-005 en SVP-114); delen van onderstaande werkwijze kunnen 
 
 De staalnamemethode wordt genoteerd op het veldformulier.
 
-### 5.1.6 Uitvoering veldmetingen
+### Uitvoering veldmetingen
 
 zie deelprotocol (SVP-115)
 
-### 5.1.7 Aflevering stalen aan het labo
+### Aflevering stalen aan het labo
 
 De gekoeld getransporteerde stalen, inclusief een kopie van het staalnameformulier, worden zo snel mogelijk en zeker binnen de tijdspanne van 24 uur na het nemen van het eerste staal van de dag binnengebracht bij het labo. In het labo worden de stalen, in afwachting van verdere analyse, in de koelkamer bewaard (zie SVP-007).
 
-### 5.1.8 Digitalisatie van de gegevens op het staalnameformulier
+### Digitalisatie van de gegevens op het staalnameformulier
 
 Na de staalname worden de gegevens ingevoerd in het digitale staalnameformulier gedeeld door het Labo via Google Drive.
 
-## 5.2 Registratie en bewaring van resultaten
+## Registratie en bewaring van resultaten
 
-### 5.2.1 Registratie van resultaten: staalnameformulier (naar VMM 2020)
+### Registratie van resultaten: staalnameformulier (naar VMM 2020)
 
 Het staalnameformulier kan ingedeeld worden in 3 onderdelen (zie google sheet Bijlage 1):
 
-1.  kopgegevens: labocode (vooraf ingevuld), code staalnamepunt, staalnemer, datum, uur
+1.  Kopgegevens: labocode (vooraf ingevuld), code staalnamepunt, staalnemer, datum, uur
 
--   reden geen staalname: werken waterloop; staalnamepunt onbereikbaar; onvoldoende watervoerend/-houdend; ijsvorming (omschrijving: zie hoger)
+-   Reden geen staalname: werken waterloop; staalnamepunt onbereikbaar; onvoldoende watervoerend/-houdend; ijsvorming (omschrijving: zie hoger)
 
--   staalnamepunt: in waterloop (afgekort WL); vanop brug/duiker; vanop steiger
+-   Staalnamepunt: in waterloop (afgekort WL); vanop brug/duiker; vanop steiger
 
--   staalnamemethode: horizontale waterhapper; maatbeker; telescopische stok
+-   Staalnamemethode: horizontale waterhapper; maatbeker; telescopische stok
 
--   weersomstandigheden: hevige neerslag, geen neerslag, ...
+-   Weersomstandigheden: hevige neerslag, geen neerslag, ...
 
 De staalnamepunt en staalnamemethode wordt genoteerd zodat toekomstige staalnames zoveel mogelijk op dezelfde wijze gebeuren en de meetresultaten vergelijkbaar zijn.
 
-2.  veldmetingen: temperatuur (°C), pH, EC (µS/cm), saliniteit (g/kg), O~2~ (mg/l), O~2~-saturatie (%), secchi-diepte (SD, m), waterdiepte (WD, m), stroomsnelheid (ss, m/s)
+2.  Veldmetingen: temperatuur (°C), pH, EC (µS/cm), saliniteit (g/kg), O~2~ (mg/l), O~2~-saturatie (%), secchi-diepte (SD, m), waterdiepte (WD, m), stroomsnelheid (ss, m/s)
 
-3.  uitzonderlijke omstandigheden
+3.  Uitzonderlijke omstandigheden
 
 Deze veldwaarnemingen omvatten waarnemingen ter plaatse, of in de onmiddellijke omgeving van het staalnamepunt, van tijdelijke fenomenen waarvoor een verband met de abiotische toestand van de onderzochte waterloop vermoed kan worden. Het gaat om vaststellingen die afwijkend zijn van de normale omstandigheden. Omdat deze mede de analyseresultaten kunnen verklaren is het van belang dat ze zo uniform mogelijk en kwaliteitsvol worden ingevuld. Op het staalnameformulier wordt bij veldwaarnemingen onderstaande onderlijnde uitspraak genoteerd bij 'uitzonderlijke veldwaarnemingen'. Onderstaande lijst kan op een klembord gekleefd worden als geheugensteun.
 
@@ -114,7 +118,7 @@ Deze veldwaarnemingen omvatten waarnemingen ter plaatse, of in de onmiddellijke 
 
 -   Andere opmerkingen: wordt ingevuld indien geen van de overige codes van toepassing is.
 
-### 5.2.2 Bewaring van resultaten
+### Bewaring van resultaten
 
 -   Voor elk staalnamepunt wordt ter plaatse een analoog staalnameformulier ingevuld (zie hoger). Afwijkingen van de beschreven werkwijze voor het nemen van een schepstaal worden eveneens genoteerd.
 
@@ -122,6 +126,6 @@ Deze veldwaarnemingen omvatten waarnemingen ter plaatse, of in de onmiddellijke 
 
 -   De laboresultaten worden geregistreerd in LIMS en worden ontsloten via het LIMS-datawarehouse.
 
-### 5.2.3 Opslag van foto's
+### Opslag van foto's
 
 Opslag van foto's op google drive met aanduiding van opnamedatum, code staalnamepunt en naam waterloop (volgens de Vlaamse Hydrografische Atlas; [[https://www.vmm.be/data/vlaamse-hydrografische-atlas]{.underline}](https://www.vmm.be/data/vlaamse-hydrografische-atlas)).
