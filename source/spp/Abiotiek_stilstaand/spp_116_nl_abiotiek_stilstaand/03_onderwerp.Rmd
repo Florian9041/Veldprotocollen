@@ -1,12 +1,12 @@
-# 3 Onderwerp
+# Onderwerp
 
-## 3.1 Definities en afkortingen
+## Definities en afkortingen
 
 **Mengstaal**: een staal bekomen door het mengen van meerdere deelstalen. De deelstalen worden op verschillende, doorgaans ruimtelijk gespreide, plaatsen binnen eenzelfde staalnamelocatie genomen.
 
 **oppervlaktewater**: al het permanent of op geregelde tijdstippen stilstaande of stromende water op het landoppervlak, aan de landzijde van de basislijn vanaf waar de breedte van de territoriale zee wordt gemeten (DIW 2003).
 
-[**Staal of monster:** een portie die geselecteerd wordt uit een grotere hoeveelheid.]{.mark} In dit protocol bestaat het staal steeds uit een hoeveelheid water van de staalnamelocatie.
+**Staal of monster:** een portie die geselecteerd wordt uit een grotere hoeveelheid. In dit protocol bestaat het staal steeds uit een hoeveelheid water van de staalnamelocatie.
 
 **Staalnamelocatie** of **steekproefeenheid**: het waterlichaam (poel, vijver, plas ...) waarvan de abiotische karakterisatie wordt beoogd en waarbinnen het staalnamepunt zich bevind.
 
@@ -14,7 +14,7 @@
 
 **UPW**: ultrapuur water is sterk gezuiverd water dat vrijwel volledig vrij is van o.a. carbonaat, mangnesium- en calciumionen, organische verbindingen en gassen; het heeft een elketrische geleidbaarheid van ongeveer 0,055 µS/cm bij 25 °C.
 
-## 3.2 Doelstelling en toepassingsgebied
+## Doelstelling en toepassingsgebied
 
 **Doelstelling**:
 
