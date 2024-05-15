@@ -1,6 +1,6 @@
-# 7 Werkwijze
+# Werkwijze
 
-## 7.1 Uitvoering
+## Uitvoering
 
 De veldmeting wordt uitgevoerd met de digitale veldmeter type WTW Multi 3430 op een substaal van een mengstaal genomen volgens protocol SVP-114. De maatbeker en de elektroden moeten vooraf gespoeld worden met water van het staalnamepunt. Neem met de maatbeker een substaal van het mengstaal uit de staalname-emmer en doe de voorgespoelde elektrodes hierin. Let op dat de beschermhuls van de zuurtegraad-elektrode en die van de zuurstofelektrode voor het spoelen al werden verwijderd. Meet met de verschillende elektrodes het volgende:
 
@@ -46,6 +46,6 @@ Na elke meting dienen de elektrodes te worden gespoeld met de spuitfles met gede
 
 -   spoel alle veldmateriaal grondig na.
 
-## 7.2 Registratie en bewaring van resultaten
+## Registratie en bewaring van resultaten
 
 De gemeten waarden en eventuele opmerkingen worden ingevuld op het analoge (geprefereerd) of digitale staalnameformulier. De metingen worden in een databank bewaard. Bij een analoog staalnameformulier wordt een kopie van het staalnameformulier bewaard door het labo en het origineel door de projectverantwoordelijke.
