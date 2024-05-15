@@ -1,6 +1,6 @@
 # Wijzigingen t.o.v. vorige versies
 
-## [2024.05](../2024.05/index.html)
+## [2024.06](../2024.06/index.html)
 
 -   ...
 
