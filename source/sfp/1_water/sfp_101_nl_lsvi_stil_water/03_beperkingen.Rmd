@@ -1,4 +1,4 @@
-# Beperkingen van het protocol
+# Beperkingen van het protocol {#sec: beperkingen}
 
 <!--
 Alleen in te vullen indien van toepassing.

@@ -1,17 +1,152 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
 # Werkwijze
 
 ## Uitvoering
 
-```{=html}
 <!--
 Gedetailleerde omschrijving van alle stappen die doorlopen moeten worden om het protocol uit te voeren.
 Subtitels gebruiken om elke stap te omschrijven.
 -->
-```
+
+### Voorafgaand aan het terreinwerk
+
+Volgende taken dienen voorafgaand aan het veldbezoek uitgevoerd te
+worden:
+
+-   Afdruk van veldkaarten met gepast schaalniveau en de recentst
+    beschikbare orthofoto, bij voorkeur op A3 formaat.
+
+-   Afdruk van veldformulieren van de verschillende habiattypen
+    (dubbelzijdig)
+
+-   Offline zetten van eventuele kaarten/applicaties op
+    handcomputer/tablet voor het geval mobiele data niet beschikbaar is
+    in het veld
+
+-   Eigenaar/beheerder contacteren
+
+-   Adres of routebeschrijving van locatie opzoeken
+
+-   Inschatten of een (belly)boot nodig is voor het uitvoeren van de
+    vegetatieopname
+
+### Lokaliseren en documenteren van veldlocatie
+
+Navigeer met een gps naar de oever van de veldlocatie.
+
+Indien het steekproefpunt tijdelijk of permanent ongeschikt is (zie
+\@ref(sec: beperkingen)), wordt dit samen met de reden genoteerd op het
+veldformulier. Bij een permanent ongeschikt meetpunt wordt dit vervangen
+door het eerstvolgende reservepunt. Bij tijdelijke ongeschiktheid wordt
+de locatie later in het jaar of het daaropvolgende jaar opnieuw bezocht.
+Ook opmerkingen in verband met betreding en toegang worden genoteerd.
+
+Alvorens het water betreden wordt, wordt ingeschat wat de geschikte
+kledij is voor de opname. Bij ondiepe plassen kan er gekozen worden voor
+lieslaarzen of een waadpak. Bij diepe plassen zal het gebruik van een
+boot noodzakelijk zijn. Wanneer er met een boot gewerkt wordt, dienen
+minstens 3 personen aanwezig te zijn: 2 in de boot voor de opname en
+iemand op de oever. Men dient zich aan de veiligheidsvoorschriften te
+houden.
+
+### Bepaling aanwezige habitattypen
+
+Bepaal eerst of het geselecteerde habitattype aanwezig is volgens de
+praktische handleiding voor het typeren van de stilstaande wateren in
+Vlaanderen (Scheers et al. 2016) en de beschrijving van habitattype
+2190_a (Denys et al. 2021). Voor alle habitat(sub)typen die aanwezig
+zijn in de plas wordt een afzonderlijk veldformulier ingevuld.
+
+**Oppervlakteaandeel van habitat in plas**: Mits er meerdere typen
+aanwezig zijn in een waterlichaam, dan wordt er getracht een
+representatieve verdeling aan de types binnen de plas te geven. De som
+van de verdeling moet steeds 100% zijn.
+
+Ook de reden van afwezigheid van het habitattype wordt opgegeven, m.n.
+waarom voldoet de locatie niet aan de definitie van het habitattype:
+
+-   Te weinig open water aanwezig (gedomineerd door helofytenvegetaties,
+    dus behorend tot een moerastype),
+
+-   Gracht
+
+-   De plas is gedempt
+
+-   Er zijn geen soorten aanwezig die typisch zijn voor het habitattype
+
+-   ...
+
+### Vegetatie-screening
+
+De waterdiepte bepaald de wijze van opname:
+
+-   Indien de waterdiepte dit toelaat, wordt de opname al wadend
+    uitgevoerd
+
+-   Indien het centrale deel van de plas ondoorwaadbaar is, maar de zone
+    nabij de oever wel doorwaadbaar is, wordt het diepere deel harkend
+    vanuit de doorwaadbare zone bemonsterd.
+
+-   In diepe, grotere wateren wordt met behulp van een kleine boot
+    geïnventariseerd.
+
+Vertrek vanop de oever van de locatie, waad langsheen de oever om de
+vegetatieopname te maken. Dit kan in wijzerszin of tegenwijzerzin
+gebeuren, afhankelijk van de stand van de zon. Waden met de zon in de
+rug is optimaal, omdat dit de zichtbaarheid van de submerse vegetatie
+vergroot en de reflectie beperkt. Bij ondiepe plassen wordt
+zig-zag-gewijs van de oever naar het centrale deel van de plas gewaad om
+een beeld te krijgen van de volledige plas. Afhankelijk van de grootte
+van de plas, de diversiteit aan soorten en de vegetatiedichtheid zal het
+zigzag-patroon meer of minder dens zijn.
+
+Bij diepe, vegetatierijke plassen wordt het centrale deel met een boot
+geïnventariseerd, waarbij de vegetatie door middel van een dreghark
+wordt opgehaald. Eerst wordt de kolonisatiediepte bepaald, dit is de
+maximale diepte waar er vegetatiegroei wordt waargenomen. Daarna wordt
+de vegetatiezone in transecten gevaren, waarbij op verschillende dieptes
+de vegetatie met een dreghark wordt bemonsterd. Het diepe onbegroeide
+deel wordt tenslotte sporadisch bemonsterd om te checken op vegetatie.
+
+De vegetatieopname wordt beperkt tot het waterdeel en de oeverzone die
+frequent onder water komt te staan. Bij plassen met een zeer geleidelijk
+talud, bijvoorbeeld bij habitattype 3160, kan de overgang van de
+oeverzone soms breed zijn; hier wordt echter de directe oeverzone
+inbegrepen in de opname. Bij twijfel wordt de screening beperkt tot de
+contour van watervlakken; deze toont de begrenzing door de
+winterwaterstand. De meer afgelegen oeverzone kan in dit geval deel
+uitmaken van een ander habitattype (hoogveen/natte heide) en aldus
+volgens een ander protocol worden beoordeeld.
+
+**Bedekking individuele soorten** Eerst wordt een lijst van de aanwezige
+sleutel- en indicatorsoorten opgesteld (Zie veldformulieren \@ref(sec:
+bijlage); Bijlage 2 t.e.m. 8 en Oosterlynck et al. 2020). Na de
+volledige plas te hebben gescreend, worden de bedekkingen genoteerd met
+de bedekkingsschaal van Tabel \@ref(tab: bedekkingsschaal).
+
+| Code | Tansley | Beschrijving |
+|----|----|----|
+| **r** | zeldzaam | \< 3 exemplaren |
+| **o** | occasioneel | ≧ 3 exemplaren, \< 5% bedekkend |
+| **f** | frequent | bedekkend (ca. 5 %), oplopend tot 15-20% of \> 100 exemplaren |
+| **a** | abundant | bedekking 15 (20) \< x \< 40% |
+| **cd** | co-dominant | bedekking \> 40% van meerdere soorten |
+| **d** | dominant | bedekking \> 40% van 1 soort |
+
+: Bedekkingsschaal Tansley-Meren (Schneiders et al., 20040 {#tab:bedekkingsschaal}
+
+Indien identificatie op het terrein niet mogelijk is, verificatie door een specialist nodig is, of het een zeer zeldzame vondst betreft, worden (delen van) planten meegenomen in een hersluitbaar plastic zakje, licht bevochtigd en voorzien van de locatiecode om deze later in het labo te kunnen determineren. Het volgnummer van het herbariumspecimen wordt genoteerd op het veldformulier. Het specimen wordt best uit de zon, en zo koel mogelijk gehouden na verzamelen en tijdens transport. Achteraf kan dit nog enkele dagen in de koelkast worden bewaard alvorens gedetermineerd of gefixeerd te worden.
+
+### Bedekking van groepen van soorten
+
 
 ## Registratie en bewaring van resultaten
 
-```{=html}
 <!--
 Opsomming van alle resultaten die bekomen worden na de uitvoering van het protocol en hoe die resultaten geregistreerd, bewaard of opgeslagen moeten worden.
 Voor metingen of observaties: verwijs naar invulformulier (met versienummer; invulformulier toevoegen in bijlage; eventueel bepaalde zaken van invulformulier verduidelijken) en/of naar apparatuur en/of softwareprogramma indien gegevens digitaal worden ingevoerd (verwijs naar `sip` (standaard instrument protocol, `<protocol-code>-YYYY.NN`) indien beschikbaar; indien geen sip beschikbaar, geef de nodige instructies om gegevens op gepaste wijzen in te kunnen geven).
@@ -20,4 +155,3 @@ Geef aan of de stalen voorbehandeld moeten worden.
 Voor digitale foto’s en/of andere digitale bestanden: geef aan hoe en waar deze bestanden moeten worden opgeslagen.
 Geef eventueel aan welke bestandsnamen aan de bestanden moeten gegeven worden.
 -->
-```

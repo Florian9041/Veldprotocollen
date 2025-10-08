@@ -20,7 +20,7 @@ Tabel \@ref(tab:Checklist) geeft een overzicht van de benodigde apparatuur en ma
 | Waterdichte handschoenen |
 | Ontsmettende zeep of handgel |
 | Vegetatiehark met schaalverdeling |
-| Flora van België (Verloove & Van Rossum, 2023) en/of andere determinatiewerken (zie Bijlage \@ref(sec: Bijlage1)) |
+| Flora van België (Verloove & Van Rossum, 2023) en/of andere determinatiewerken (zie Bijlage 1 \@ref(sec: bijlage1)) |
 
 : Checklist van benodigde aparatuur en materiaal. {#tab:Checklist}
 
@@ -99,13 +99,14 @@ knitr::include_graphics("media/Fig4Secchi.jpeg")
 Een vouwmeter van minimaal 2 meter voor de dieptebepaling.
 
 ### Determinatiewerken
-Relevante determinatiewerken worden in Bijlage xxx1xxx opgesomd.
+Relevante determinatiewerken worden in Bijlage 1 \@ref(sec:bijlage1) opgesomd.
 
 ### Boot
 Een boot wordt enkel gebruikt bij diepere plassen op meer dan 3 à 4 m diepte. Bij grote, diepe plassen wordt een boot met motor gebruikt omdat het slepen van een werphark over de waterbodem anders niet praktisch haalbaar is. De afmetingen van de boot zijn bij voorkeur minstens 4 m lengte op 2,00 m breedte. Bij deze afmetingen is er voldoende ruimte om het nodige materiaal te stockeren tijdens het bootwerk. Ook moet de boot voldoende stabiliteit bieden om rechtstaand met de dreghark te kunnen werken. In sommige gevallen kan een kleinere boot met elektromotor worden gebruikt. Dit type boot kan handig zijn om grote ondiepere watersystemen met variabele diepte te bemonsteren of indien rekening gehouden moet worden met verstoringsgevoelige fauna of bijzondere kwaliteitseisen (bv. drinkwaterproductie).
 
 
 ## Reagentia en oplossingen (indien van toepassing)
+Niet van toepassing
 
 <!--
 Een opsomming van reagentia, welke zuiverheid, volume, veiligheidsvoorschriften.
