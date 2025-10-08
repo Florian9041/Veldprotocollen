@@ -110,3 +110,15 @@ create_spp(title = "Abiotische staalname waterlopen",
                        "../data/SPP-117 Abiotische staalname waterlopen versie1.0.docx"),
            protocol_number = "117", 
            render = FALSE)
+
+# SFP-118
+create_sfp(
+  short_title = "LSVI stil water",
+  version_number = get_version_number(),
+  theme = "water",
+  language = "nl",
+  from_docx = "./data/veldprotocol LSVI stilstaande wateren - tem veldseizoen 2023.docx",
+  protocol_number = NULL,
+  template = "sfp",
+  render = FALSE
+)
