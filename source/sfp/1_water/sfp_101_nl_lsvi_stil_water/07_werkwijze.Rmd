@@ -223,6 +223,7 @@ Een overdadige ontwikkeling van **helofyten** zorgt voor concurrentie voor licht
 De bedekking van helofyten (exclusief sleutelsoorten) wordt als percentage ingeschat bij habitattype 3130_aom, 3140 en 3150; hierbij wordt dit percentage ingeschat op plasniveau; m.n. % bedekking ten opzichte van het wateroppervlak. Ook bij habitattype 2190_a komt dit aan bod als de bedekking van **robuuste monocotylen**.
 
 #### Horizontale structuur
+
 Bij de horizontale structuur wordt beoordeeld of de typische vegetaties voldoende groot zijn, de zogenaamde **vegetatievlekken** die voornamelijk bestaan uit sleutelsoorten. De omschrijving van de term vegetatievlek verschilt per habitattype:
 
 -   3110: ≥ 4 exemplaren van sleutelsoorten per m² of 4 exemplaren staan op maximum 0,5 m van elkaar;
@@ -241,8 +242,41 @@ Bij de doorgaans schaarse vegetaties van habitattype 3160 wordt dit criterium be
 
 ### Algemene standplaatskenmerken
 
+#### Waterpeil
+
+**Waterpeil**: Een afwijkend waterpeil wordt genoteerd. Bij een uitzonderlijk hoog waterpeil wordt afgeraden om een vegetatieopname te maken, enerzijds omwille van veiligheid en anderzijds vanwege het beperkt doorzicht dat meestal gepaard gaat met een uitzonderlijk hoog waterpeil. 
+
+**Schommeling winter/zomer**: de schommeling tussen winter- en zomerwaterpeil wordt ingeschat door de vegetatie en structuurkenmerken van de oeverzone net boven het waterpeil te beoordelen. De vegetatieopname vindt plaats tijdens het seizoen wanneer het waterpeil doorgaans het laagst staat. Aan de oeverzijde kan ingeschat worden hoeveel hoger het winterpeil is.
+
+**Permanentie**: Voor habitattype 2190_a wordt aangekruist of de plas permanent water bevat of niet. Er wordt een onderscheid gemaakt tussen: permanent waterhoudend (nooit droogvallend), semi-permanent (soms droogvallend) of periodiek droogvallend (jaarlijks droogvallend). 
+
+#### Maximale diepte
+
+De maximale diepte wordt bepaald door middel van een plooimeter, de sonar of de lengteaanduiding op het koord van de dreghark. De diepteklasse van deze maximale diepte wordt vervolgens aangekruist op het veldformulier.
+
+#### Helderheid van de waterkolom
+
+Indien er geen bodemzicht is, wordt de secchi-diepte bepaald. De schijf wordt langzaam in het water gelaten en de diepte waarop het onderscheid tussen de witte en de zwarte vlakken niet meer zichtbaar is, wordt afgelezen van de maatverdeling op het touw. Dit wordt enkele malen herhaald. Indien de schijf tot op de bodem zichtbaar is, wordt de waterdiepte van de meetplaats genoteerd als secchi-diepte. De meting van de secchi-diepte dient - indien mogelijk - op het diepste punt van de plas uitgevoerd te worden. Zie ook protocol [sfp-113-nl 2023.04](../2023.04/index.html).
+
+#### Bodemsubstraat
+
+Voor 2190_a wordt het bodemsubstraat genoteerd: zand, klei, veraard veen, puin of overig substraat. Indien meerdere typen substraat voorkomen, wordt dit ingeschat d.m.v. percentages.
+
 
 ## Registratie en bewaring van resultaten
+
+### Invoer veldgegevens
+
+De invoer van veldgegevens gebeurt digitaal op het terrein met een (rugged) tablet in INBOVEG (Survey = HT31xx_LSVI_StilstaandeWateren) of analoog op een veldformulier (\@ref(sec: bijlage); Bijlage 2 t.e.m. 8).
+
+### Determinaties
+
+Soorten die in het veld niet op naam gebracht kunnen worden, kunnen tot hooguit één week gekoeld bewaard worden. Ze kunnen in het labo op naam gebracht worden met een loep, stereomicroscoop of lichtmicroscoop en relevante determinatiewerken (Bijlage xxx1xxx). Indien relevant, kunnen foto’s genomen worden. De geïdentificeerde specimen worden bewaard in een herbarium.
+
+### Opslag van foto's
+
+De foto’s worden chronologisch per datum in mappen bewaard, waarbij de locatiecode en de datum in de map- of bestandsnaam worden vermeld.
+
 
 <!--
 Opsomming van alle resultaten die bekomen worden na de uitvoering van het protocol en hoe die resultaten geregistreerd, bewaard of opgeslagen moeten worden.
