@@ -117,7 +117,7 @@ create_sfp(
   version_number = get_version_number(),
   theme = "water",
   language = "nl",
-  from_docx = "./data/veldprotocol LSVI stilstaande wateren - tem veldseizoen 2023.docx",
+  from_docx = NULL,
   protocol_number = NULL,
   template = "sfp",
   render = FALSE
