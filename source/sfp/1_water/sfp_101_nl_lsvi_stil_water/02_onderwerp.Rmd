@@ -18,6 +18,10 @@
 
 **LSVI**: Lokale staat van instandhouding; instrument om lokaal de toestand van een habitattype te evalueren aan de hand van structuur- en vegetatiekenmerken (Oosterlynck et al. 2020).
 
-**Steekproefpunt** of **(veld)locatie**: Voor het habitatkwaliteitsmeetnet (zie verder) komt de steekproefeenheid voor stilstaande wateren overeen met de watervlakkencode (Westra et al., 2022). Dit is het niveau waarop de biotische karakterisatie wordt beoogd. 
+**Steekproefpunt** of **(veld)locatie**: Voor het habitatkwaliteitsmeetnet (zie verder) komt de steekproefeenheid voor stilstaande wateren overeen met de watervlakkencode (Westra et al., 2022). Dit is het niveau waarop de biotische karakterisatie wordt beoogd.
 
 ## Doelstelling en toepassingsgebied
+
+Het doel van het veldprotocol is om gegevens te verzamelen van bepaalde indicatoren die een beoordeling van de LSVI toelaten voor habitattype 2190_a, 3110, 3130_aom, 3130_na, 3140, 3150 en 3160. Deze LSVI-indicatoren zijn beschreven door Oosterlynck et al. (2020).
+
+Het veldprotocol wordt gebruikt voor het bemonsteren van de steekproefpunten van het habitatkwaliteitsmeetnet voor bovengenoemde habitattypen. De selectiemethode van steekproefpunten is beschreven in het rapport over de habitatkwaliteitsmonitoring (Westra et al., 2014; Westra et al., 2022). Dit meetnet is geconcipieerd om de habitatkwaliteit van habitattypen van stilstaande wateren op Vlaams schaalniveau te kunnen inschatten. De resultaten van dit meetnet worden o.a. gebruikt voor de 6-jaarlijkse rapportage over de staat van instandhouding van de habitattypes 31xx en 2190_a aan de Europese Commissie.
