@@ -130,7 +130,7 @@ volledige plas te hebben gescreend, worden de bedekkingen genoteerd met
 de bedekkingsschaal van Tabel \@ref(tab: bedekkingsschaal).
 
 | Code | Tansley | Beschrijving |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | **r** | zeldzaam | \< 3 exemplaren |
 | **o** | occasioneel | ≧ 3 exemplaren, \< 5% bedekkend |
 | **f** | frequent | bedekkend (ca. 5 %), oplopend tot 15-20% of \> 100 exemplaren |
@@ -138,11 +138,108 @@ de bedekkingsschaal van Tabel \@ref(tab: bedekkingsschaal).
 | **cd** | co-dominant | bedekking \> 40% van meerdere soorten |
 | **d** | dominant | bedekking \> 40% van 1 soort |
 
-: Bedekkingsschaal Tansley-Meren (Schneiders et al., 20040 {#tab:bedekkingsschaal}
+: Bedekkingsschaal Tansley-Meren (Schneiders et al., 20040
+{#tab:bedekkingsschaal}
 
-Indien identificatie op het terrein niet mogelijk is, verificatie door een specialist nodig is, of het een zeer zeldzame vondst betreft, worden (delen van) planten meegenomen in een hersluitbaar plastic zakje, licht bevochtigd en voorzien van de locatiecode om deze later in het labo te kunnen determineren. Het volgnummer van het herbariumspecimen wordt genoteerd op het veldformulier. Het specimen wordt best uit de zon, en zo koel mogelijk gehouden na verzamelen en tijdens transport. Achteraf kan dit nog enkele dagen in de koelkast worden bewaard alvorens gedetermineerd of gefixeerd te worden.
+Indien identificatie op het terrein niet mogelijk is, verificatie door
+een specialist nodig is, of het een zeer zeldzame vondst betreft, worden
+(delen van) planten meegenomen in een hersluitbaar plastic zakje, licht
+bevochtigd en voorzien van de locatiecode om deze later in het labo te
+kunnen determineren. Het volgnummer van het herbariumspecimen wordt
+genoteerd op het veldformulier. Het specimen wordt best uit de zon, en
+zo koel mogelijk gehouden na verzamelen en tijdens transport. Achteraf
+kan dit nog enkele dagen in de koelkast worden bewaard alvorens
+gedetermineerd of gefixeerd te worden.
 
 ### Bedekking van groepen van soorten
+
+**Sleutelsoorten**: de bedekking van sleutelsoorten per habitattype
+wordt individueel ingeschat volgens de Tansley-schaal (Tabel \@ref(tab:
+bedekkingsschaal)). De totale bedekking (%) van alle sleutelsoorten
+samen wordt eveneens genoteerd. Voor habitattype 2190_a worden
+sleutelsoorten onderverdeeld in hydrofyten en niet-hydrofyten. Voor
+habitattype 3140 wordt aangegeven of de kranswiervelden bestaan uit meer
+of minder dan de helft uit sleutelsoorten (op basis van bedekking).
+
+Bedekking **verstoringsindicatoren**: Het percentage
+verstoringsindicatoren (eutrofiëringsindicatoren, verzuring en invasieve
+exoten) wordt ingeschat als oppervlakte-percentage, oftewel de projectie
+t.o.v. het volledige wateroppervlak. Voor habitattype 2190_a wordt de
+kroosbedekking (%) genoteerd als eutrofiëringsindicator.
+
+Indien verschillende habitattypen en/of subtypen voorkomen, wordt voor
+elk van de typen de verstoringspercentages op plasniveau ingeschat. Voor
+bijvoorbeeld de gezamenlijke aanwezigheid van 3130_na als 3130_aom in
+een plas, worden eutrofiëringspercentages voor beide subtypes op de
+volledige plas ingeschat.
+
+Voor habitattype 2190_a wordt het percentage van verschillende
+**vegetatielagen** ingeschat:
+
+-   (bodemwortelende) **Submerse vegetatie**: procentuele oppervlakte
+    van de plas bedekt met ondergedoken en wortelende vegetatie; dit is
+    inclusief *Ceratophyllum* en exclusief *Utricularia*.
+
+-   **Kranswieren**: oppervlakte van de plas bedekt met Characeae.
+    Opgelet, deze zijn ook vervat in het percentage submerse vegetatie,
+    dus het percentage submerse vegetatie is steeds groter dan of gelijk
+    aan het percentage kranswieren.
+
+-   **Overhangende bomen en struiken**: dit is de som van de
+    oppervlakten van het wateroppervlak en de langdurig geïnundeerde
+    oever dat beschaduwd wordt door overhangende bomen/struiken, dus
+    deze die zich niet in de plas bevinden. Bij het bepalen van de
+    beschaduwing wordt een verticale projectie van de overhangende
+    boom/struiken gebruikt. Dit geeft een indicatie van slechte
+    lichtomstandigheden in het water, en daardoor vegetatiegroei
+    belemmert.
+
+-   **Bomen en struiken**: percentage bedekking van het wateroppervlak
+    en de langdurig geïnundeerde oever met bomen of struiken; enkel deze
+    die zich in de plas bevinden of die in de geïnundeerde oever
+    wortelen. Dit is een indicatie van successie.
+
+### Structuurkenmerken
+
+#### Vertical structuur
+
+De verticale structuur brengt de successie in rekening. Een overmatige
+aanwezigheid van hoger groeiende, meer concurrentiekrachtige planten
+bemoeilijkt de groei van de kenmerkende isoëtiden en dwergbiezen:
+
+-   **Isoëtiden**: Voor HT3110 wordt de bedekking van isoëtiden versus
+    andere groeivormen genoteerd, oftewel door een Tansley-inschatting
+    per groep te noteren of door aan te kruisen of het aandeel isoëtiden
+    groter of kleiner is dan de andere groeivormen.
+
+-   **‘Opgaande’ soorten**: voor habitattype 3130_na wordt de
+    overgroeiing van de vegetatievlekken (definitie: zie verder) door
+    hoger groeiende niet-sleutelsoorten ingeschat. Dit is de vegetatie
+    hoger dan 15 cm en kan naast helofyten ook bestaan uit submerse
+    vegetatie die zorgt voor concurrentie.
+
+Een overdadige ontwikkeling van **helofyten** zorgt voor concurrentie voor licht en ruimte, waardoor de groei van ondergedoken en drijvende vegetatie wordt bemoeilijkt.
+
+De bedekking van helofyten (exclusief sleutelsoorten) wordt als percentage ingeschat bij habitattype 3130_aom, 3140 en 3150; hierbij wordt dit percentage ingeschat op plasniveau; m.n. % bedekking ten opzichte van het wateroppervlak. Ook bij habitattype 2190_a komt dit aan bod als de bedekking van **robuuste monocotylen**.
+
+#### Horizontale structuur
+Bij de horizontale structuur wordt beoordeeld of de typische vegetaties voldoende groot zijn, de zogenaamde **vegetatievlekken** die voornamelijk bestaan uit sleutelsoorten. De omschrijving van de term vegetatievlek verschilt per habitattype:
+
+-   3110: ≥ 4 exemplaren van sleutelsoorten per m² of 4 exemplaren staan op maximum 0,5 m van elkaar;
+
+-   3130_aom en 3130_na: ijle tot dichte vegetaties waarin sleutelsoorten meer bedekken dan andere soorten;
+
+-   3140: kranswiervelden of dichte vegetaties, voor meer dan ¾ bestaande uit kranswieren (zowel sleutelssoorten als overige kranswieren);
+
+-   3150: vegetaties waarin sleutelsoorten meer bedekken dan andere soorten.
+
+Tijdens het waden wordt de grootte van deze vegetatievlekken ingeschat. Er wordt van twee vegetatievlekken gesproken indien de afstand tussen beide minstens 2 meter bedraagt. Er is geen minimum-oppervlakte om van een vegetatievlek te kunnen spreken. Wanneer de sleutelsoorten zeer schaars aanwezig zijn en er slechts enkele exemplaren worden aangetroffen, wordt dit als een vegetatievlek van de laagste grootteklasse gerekend.
+
+De oppervlakteklasse van de grootste aaneengesloten vegetatievlek wordt aangekruist op het veldformulier.
+
+Bij de doorgaans schaarse vegetaties van habitattype 3160 wordt dit criterium beoordeeld door de ruimtelijke samenhang met het hydrologisch samenhangende successiestadium ‘oligotroof en zuur overgangsveen’ (**habitattype 7140_ oli**) te beoordelen. De aan- of afwezigheid van de aanpalende habitatvlekken van het habitattype 7140_oli wordt aangekruist op het veldformulier. Voor een beschrijving van dit habitattype wordt verwezen naar Decleer (2007).
+
+### Algemene standplaatskenmerken
 
 
 ## Registratie en bewaring van resultaten
