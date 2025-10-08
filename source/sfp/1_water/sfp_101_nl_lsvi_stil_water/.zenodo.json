@@ -1,0 +1,31 @@
+{
+  "description": "",
+  "title": "Veldprotocol LSVI-bepaling stilstaande wateren. LSVI stilstaande wateren.",
+  "upload_type": "publication",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "LSVI; stilstaand water; 31xx; 2190; veldprotocol"
+  ],
+  "publisher": "Instituut voor Natuur- en Bosonderzoek (INBO)",
+  "contributors": [
+    {
+      "name": "Smeekens, Vincent",
+      "affiliation": "Instituut voor Natuur- en Bosonderzoek (INBO)",
+      "orcid": "0000-0003-2996-2716",
+      "type": "contactperson"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Smeekens, Vincent",
+      "affiliation": "Instituut voor Natuur- en Bosonderzoek (INBO)",
+      "orcid": "0000-0003-2996-2716"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "inbo"
+    }
+  ]
+}

@@ -111,6 +111,21 @@ create_spp(title = "Abiotische staalname waterlopen",
            protocol_number = "117", 
            render = FALSE)
 
+an.leyssen@inbo.be
+0000-0003-3537-286X
+
+vincent.smeekens@inbo.be
+0000-0003-2996-2716
+
+jo.packet@inbo.be
+0000-0001-5590-323X
+
+kevin.scheers@inbo.be
+0000-0002-4756-4247
+
+florian.vanhecke@inbo.be
+0009-0004-3499-2279
+
 # SFP-118
 create_sfp(
   short_title = "LSVI stil water",
