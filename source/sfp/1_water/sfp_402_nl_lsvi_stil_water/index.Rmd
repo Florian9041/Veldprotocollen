@@ -6,7 +6,7 @@ author:
       given: "An"
       family: "Leyssen"
     email: "an.leyssen@inbo.be"
-    orcid: ""
+    orcid: "0000-0003-3537-286X"
     affiliation: "Instituut voor Natuur- en Bosonderzoek (INBO)"
   - name:
       given: "Vincent"
