@@ -81,7 +81,7 @@ waarom voldoet de locatie niet aan de definitie van het habitattype:
 
 -   ...
 
-### Vegetatie-screening
+### Vegetatieopname {#sec: vegetatieopname}
 
 De waterdiepte bepaald de wijze van opname:
 

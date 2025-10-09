@@ -1,4 +1,4 @@
-book_filename: sfp_101_nl_lsvi_stil_water.Rmd
+book_filename: sfp_402_nl_lsvi_stil_water.Rmd
 delete_merged_file: true
 rmd_files:
 - index.Rmd
@@ -16,7 +16,7 @@ rmd_files:
 - 11_referenties.Rmd
 - 12_appendices.Rmd
 - 13_subprotocols.Rmd
-output_dir: ../../../../docs/sfp/1_water/sfp_101_nl_lsvi_stil_water
+output_dir: ../../../../docs/sfp/4_vegetation/sfp_402_nl_lsvi_stil_water
 language:
   label:
     fig: 'Figuur '
