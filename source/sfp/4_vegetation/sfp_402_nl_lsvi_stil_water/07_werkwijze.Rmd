@@ -1,17 +1,14 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Werkwijze
 
 ## Uitvoering
 
+```{=html}
 <!--
 Gedetailleerde omschrijving van alle stappen die doorlopen moeten worden om het protocol uit te voeren.
 Subtitels gebruiken om elke stap te omschrijven.
 -->
+```
+
 
 ### Voorafgaand aan het terreinwerk
 
@@ -132,7 +129,7 @@ de bedekkingsschaal van Tabel \@ref(tab: bedekkingsschaal).
 | Code | Tansley | Beschrijving |
 |------------------------|------------------------|------------------------|
 | **r** | zeldzaam | \< 3 exemplaren |
-| **o** | occasioneel | ≧ 3 exemplaren, \< 5% bedekkend |
+| **o** | occasioneel | \> of = 3 exemplaren, \< 5% bedekkend |
 | **f** | frequent | bedekkend (ca. 5 %), oplopend tot 15-20% of \> 100 exemplaren |
 | **a** | abundant | bedekking 15 (20) \< x \< 40% |
 | **cd** | co-dominant | bedekking \> 40% van meerdere soorten |
@@ -218,71 +215,120 @@ bemoeilijkt de groei van de kenmerkende isoëtiden en dwergbiezen:
     hoger dan 15 cm en kan naast helofyten ook bestaan uit submerse
     vegetatie die zorgt voor concurrentie.
 
-Een overdadige ontwikkeling van **helofyten** zorgt voor concurrentie voor licht en ruimte, waardoor de groei van ondergedoken en drijvende vegetatie wordt bemoeilijkt.
+Een overdadige ontwikkeling van **helofyten** zorgt voor concurrentie
+voor licht en ruimte, waardoor de groei van ondergedoken en drijvende
+vegetatie wordt bemoeilijkt.
 
-De bedekking van helofyten (exclusief sleutelsoorten) wordt als percentage ingeschat bij habitattype 3130_aom, 3140 en 3150; hierbij wordt dit percentage ingeschat op plasniveau; m.n. % bedekking ten opzichte van het wateroppervlak. Ook bij habitattype 2190_a komt dit aan bod als de bedekking van **robuuste monocotylen**.
+De bedekking van helofyten (exclusief sleutelsoorten) wordt als
+percentage ingeschat bij habitattype 3130_aom, 3140 en 3150; hierbij
+wordt dit percentage ingeschat op plasniveau; m.n. % bedekking ten
+opzichte van het wateroppervlak. Ook bij habitattype 2190_a komt dit aan
+bod als de bedekking van **robuuste monocotylen**.
 
 #### Horizontale structuur
 
-Bij de horizontale structuur wordt beoordeeld of de typische vegetaties voldoende groot zijn, de zogenaamde **vegetatievlekken** die voornamelijk bestaan uit sleutelsoorten. De omschrijving van de term vegetatievlek verschilt per habitattype:
+Bij de horizontale structuur wordt beoordeeld of de typische vegetaties
+voldoende groot zijn, de zogenaamde **vegetatievlekken** die
+voornamelijk bestaan uit sleutelsoorten. De omschrijving van de term
+vegetatievlek verschilt per habitattype:
 
--   3110: ≥ 4 exemplaren van sleutelsoorten per m² of 4 exemplaren staan op maximum 0,5 m van elkaar;
+-   3110: \> of = 4 exemplaren van sleutelsoorten per m² of 4 exemplaren
+    staan op maximum 0,5 m van elkaar;
 
--   3130_aom en 3130_na: ijle tot dichte vegetaties waarin sleutelsoorten meer bedekken dan andere soorten;
+-   3130_aom en 3130_na: ijle tot dichte vegetaties waarin
+    sleutelsoorten meer bedekken dan andere soorten;
 
--   3140: kranswiervelden of dichte vegetaties, voor meer dan ¾ bestaande uit kranswieren (zowel sleutelssoorten als overige kranswieren);
+-   3140: kranswiervelden of dichte vegetaties, voor meer dan ¾
+    bestaande uit kranswieren (zowel sleutelssoorten als overige
+    kranswieren);
 
--   3150: vegetaties waarin sleutelsoorten meer bedekken dan andere soorten.
+-   3150: vegetaties waarin sleutelsoorten meer bedekken dan andere
+    soorten.
 
-Tijdens het waden wordt de grootte van deze vegetatievlekken ingeschat. Er wordt van twee vegetatievlekken gesproken indien de afstand tussen beide minstens 2 meter bedraagt. Er is geen minimum-oppervlakte om van een vegetatievlek te kunnen spreken. Wanneer de sleutelsoorten zeer schaars aanwezig zijn en er slechts enkele exemplaren worden aangetroffen, wordt dit als een vegetatievlek van de laagste grootteklasse gerekend.
+Tijdens het waden wordt de grootte van deze vegetatievlekken ingeschat.
+Er wordt van twee vegetatievlekken gesproken indien de afstand tussen
+beide minstens 2 meter bedraagt. Er is geen minimum-oppervlakte om van
+een vegetatievlek te kunnen spreken. Wanneer de sleutelsoorten zeer
+schaars aanwezig zijn en er slechts enkele exemplaren worden
+aangetroffen, wordt dit als een vegetatievlek van de laagste
+grootteklasse gerekend.
 
-De oppervlakteklasse van de grootste aaneengesloten vegetatievlek wordt aangekruist op het veldformulier.
+De oppervlakteklasse van de grootste aaneengesloten vegetatievlek wordt
+aangekruist op het veldformulier.
 
-Bij de doorgaans schaarse vegetaties van habitattype 3160 wordt dit criterium beoordeeld door de ruimtelijke samenhang met het hydrologisch samenhangende successiestadium ‘oligotroof en zuur overgangsveen’ (**habitattype 7140_ oli**) te beoordelen. De aan- of afwezigheid van de aanpalende habitatvlekken van het habitattype 7140_oli wordt aangekruist op het veldformulier. Voor een beschrijving van dit habitattype wordt verwezen naar Decleer (2007).
+Bij de doorgaans schaarse vegetaties van habitattype 3160 wordt dit
+criterium beoordeeld door de ruimtelijke samenhang met het hydrologisch
+samenhangende successiestadium ‘oligotroof en zuur overgangsveen’
+(**habitattype 7140\_ oli**) te beoordelen. De aan- of afwezigheid van
+de aanpalende habitatvlekken van het habitattype 7140_oli wordt
+aangekruist op het veldformulier. Voor een beschrijving van dit
+habitattype wordt verwezen naar Decleer (2007).
 
 ### Algemene standplaatskenmerken
 
 #### Waterpeil
 
-**Waterpeil**: Een afwijkend waterpeil wordt genoteerd. Bij een uitzonderlijk hoog waterpeil wordt afgeraden om een vegetatieopname te maken, enerzijds omwille van veiligheid en anderzijds vanwege het beperkt doorzicht dat meestal gepaard gaat met een uitzonderlijk hoog waterpeil. 
+**Waterpeil**: Een afwijkend waterpeil wordt genoteerd. Bij een
+uitzonderlijk hoog waterpeil wordt afgeraden om een vegetatieopname te
+maken, enerzijds omwille van veiligheid en anderzijds vanwege het
+beperkt doorzicht dat meestal gepaard gaat met een uitzonderlijk hoog
+waterpeil.
 
-**Schommeling winter/zomer**: de schommeling tussen winter- en zomerwaterpeil wordt ingeschat door de vegetatie en structuurkenmerken van de oeverzone net boven het waterpeil te beoordelen. De vegetatieopname vindt plaats tijdens het seizoen wanneer het waterpeil doorgaans het laagst staat. Aan de oeverzijde kan ingeschat worden hoeveel hoger het winterpeil is.
+**Schommeling winter/zomer**: de schommeling tussen winter- en
+zomerwaterpeil wordt ingeschat door de vegetatie en structuurkenmerken
+van de oeverzone net boven het waterpeil te beoordelen. De
+vegetatieopname vindt plaats tijdens het seizoen wanneer het waterpeil
+doorgaans het laagst staat. Aan de oeverzijde kan ingeschat worden
+hoeveel hoger het winterpeil is.
 
-**Permanentie**: Voor habitattype 2190_a wordt aangekruist of de plas permanent water bevat of niet. Er wordt een onderscheid gemaakt tussen: permanent waterhoudend (nooit droogvallend), semi-permanent (soms droogvallend) of periodiek droogvallend (jaarlijks droogvallend). 
+**Permanentie**: Voor habitattype 2190_a wordt aangekruist of de plas
+permanent water bevat of niet. Er wordt een onderscheid gemaakt tussen:
+permanent waterhoudend (nooit droogvallend), semi-permanent (soms
+droogvallend) of periodiek droogvallend (jaarlijks droogvallend).
 
 #### Maximale diepte
 
-De maximale diepte wordt bepaald door middel van een plooimeter, de sonar of de lengteaanduiding op het koord van de dreghark. De diepteklasse van deze maximale diepte wordt vervolgens aangekruist op het veldformulier.
+De maximale diepte wordt bepaald door middel van een plooimeter, de
+sonar of de lengteaanduiding op het koord van de dreghark. De
+diepteklasse van deze maximale diepte wordt vervolgens aangekruist op
+het veldformulier.
 
 #### Helderheid van de waterkolom
 
-Indien er geen bodemzicht is, wordt de secchi-diepte bepaald. De schijf wordt langzaam in het water gelaten en de diepte waarop het onderscheid tussen de witte en de zwarte vlakken niet meer zichtbaar is, wordt afgelezen van de maatverdeling op het touw. Dit wordt enkele malen herhaald. Indien de schijf tot op de bodem zichtbaar is, wordt de waterdiepte van de meetplaats genoteerd als secchi-diepte. De meting van de secchi-diepte dient - indien mogelijk - op het diepste punt van de plas uitgevoerd te worden. Zie ook protocol [sfp-113-nl 2023.04](../2023.04/index.html).
+Indien er geen bodemzicht is, wordt de secchi-diepte bepaald. De schijf
+wordt langzaam in het water gelaten en de diepte waarop het onderscheid
+tussen de witte en de zwarte vlakken niet meer zichtbaar is, wordt
+afgelezen van de maatverdeling op het touw. Dit wordt enkele malen
+herhaald. Indien de schijf tot op de bodem zichtbaar is, wordt de
+waterdiepte van de meetplaats genoteerd als secchi-diepte. De meting van
+de secchi-diepte dient - indien mogelijk - op het diepste punt van de
+plas uitgevoerd te worden. Zie ook protocol [sfp-113-nl
+2023.04](../2023.04/index.html).
 
 #### Bodemsubstraat
 
-Voor 2190_a wordt het bodemsubstraat genoteerd: zand, klei, veraard veen, puin of overig substraat. Indien meerdere typen substraat voorkomen, wordt dit ingeschat d.m.v. percentages.
-
+Voor 2190_a wordt het bodemsubstraat genoteerd: zand, klei, veraard
+veen, puin of overig substraat. Indien meerdere typen substraat
+voorkomen, wordt dit ingeschat d.m.v. percentages.
 
 ## Registratie en bewaring van resultaten
 
 ### Invoer veldgegevens
 
-De invoer van veldgegevens gebeurt digitaal op het terrein met een (rugged) tablet in INBOVEG (Survey = HT31xx_LSVI_StilstaandeWateren) of analoog op een veldformulier (\@ref(sec: bijlage); Bijlage 2 t.e.m. 8).
+De invoer van veldgegevens gebeurt digitaal op het terrein met een
+(rugged) tablet in INBOVEG (Survey = HT31xx_LSVI_StilstaandeWateren) of
+analoog op een veldformulier (\@ref(sec: bijlage); Bijlage 2 t.e.m. 8).
 
 ### Determinaties
 
-Soorten die in het veld niet op naam gebracht kunnen worden, kunnen tot hooguit één week gekoeld bewaard worden. Ze kunnen in het labo op naam gebracht worden met een loep, stereomicroscoop of lichtmicroscoop en relevante determinatiewerken (Bijlage xxx1xxx). Indien relevant, kunnen foto’s genomen worden. De geïdentificeerde specimen worden bewaard in een herbarium.
+Soorten die in het veld niet op naam gebracht kunnen worden, kunnen tot
+hooguit één week gekoeld bewaard worden. Ze kunnen in het labo op naam
+gebracht worden met een loep, stereomicroscoop of lichtmicroscoop en
+relevante determinatiewerken (Bijlage xxx1xxx). Indien relevant, kunnen
+foto’s genomen worden. De geïdentificeerde specimen worden bewaard in
+een herbarium.
 
 ### Opslag van foto's
 
-De foto’s worden chronologisch per datum in mappen bewaard, waarbij de locatiecode en de datum in de map- of bestandsnaam worden vermeld.
-
-
-<!--
-Opsomming van alle resultaten die bekomen worden na de uitvoering van het protocol en hoe die resultaten geregistreerd, bewaard of opgeslagen moeten worden.
-Voor metingen of observaties: verwijs naar invulformulier (met versienummer; invulformulier toevoegen in bijlage; eventueel bepaalde zaken van invulformulier verduidelijken) en/of naar apparatuur en/of softwareprogramma indien gegevens digitaal worden ingevoerd (verwijs naar `sip` (standaard instrument protocol, `<protocol-code>-YYYY.NN`) indien beschikbaar; indien geen sip beschikbaar, geef de nodige instructies om gegevens op gepaste wijzen in te kunnen geven).
-Voor staalnames: geef aan hoe de stalen bewaard, gelabeld en vervoerd moeten worden.
-Geef aan of de stalen voorbehandeld moeten worden.
-Voor digitale foto’s en/of andere digitale bestanden: geef aan hoe en waar deze bestanden moeten worden opgeslagen.
-Geef eventueel aan welke bestandsnamen aan de bestanden moeten gegeven worden.
--->
+De foto’s worden chronologisch per datum in mappen bewaard, waarbij de
+locatiecode en de datum in de map- of bestandsnaam worden vermeld.

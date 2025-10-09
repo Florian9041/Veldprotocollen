@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+<meta name="protocol-title" content="Veldprotocol LSVI-bepaling stilstaande wateren" />
+<meta name="protocol-subtitle" content="LSVI stilstaande wateren" />
+<meta name="protocol-code" content="sfp-402-nl" />
+<meta name="protocol-version" content="2025.01" />
+<meta name="protocol-language" content="" />
+<meta name="protocol-theme" content="" />
+<meta name="protocol-reviewer" content="true" />
+<meta name="protocol-file-manager" content="true" />
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Veldprotocol LSVI-bepaling stilstaande wateren</title>
+  <meta name="description" content="Veldprotocol LSVI-bepaling stilstaande wateren">
+  <meta name="generator" content="bookdown  and GitBook 2.6.7">
+
+  <meta property="og:title" content="Veldprotocol LSVI-bepaling stilstaande wateren" />
+  <meta property="og:type" content="book" />
+  
+  
+  
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Veldprotocol LSVI-bepaling stilstaande wateren" />
+  
+  
+  
+
+
+
+<meta name="date" content="2025-10-09">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  
+  
+
+
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+<link rel="stylesheet" href="css/inbo_rapport.css" type="text/css"/>
+
+<link rel="stylesheet" href="css/inbo_rapport.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+
+      <nav role="navigation">
+
+<ul class="summary">
+<li class="toc-logo"><a href="https://www.vlaanderen.be/inbo/home/"><img src="css/img/inbo-nl.jpg"></a></li>
+<li class="toc-logo"><a href="https://inbo.github.io/protocols/"><button class="btn"><i class="fa fa-home"></i> Protocols homepage</button></li>
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path=""><a href="#metadata"><i class="fa fa-check"></i>Metadata</a></li>
+<li class="chapter" data-level="1" data-path=""><a href="#wijzigingen-t.o.v.-vorige-versies"><i class="fa fa-check"></i><b>1</b> Wijzigingen t.o.v. vorige versies</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path=""><a href="#section"><i class="fa fa-check"></i><b>1.1</b> 2025.01</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path=""><a href="#afhankelijkheden"><i class="fa fa-check"></i><b>2</b> Afhankelijkheden</a></li>
+<li class="chapter" data-level="3" data-path=""><a href="#onderwerp"><i class="fa fa-check"></i><b>3</b> Onderwerp</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path=""><a href="#definities-en-afkortingen"><i class="fa fa-check"></i><b>3.1</b> Definities en afkortingen</a></li>
+<li class="chapter" data-level="3.2" data-path=""><a href="#doelstelling-en-toepassingsgebied"><i class="fa fa-check"></i><b>3.2</b> Doelstelling en toepassingsgebied</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path=""><a href="#beperkingen-van-het-protocol-sec-beperkingen"><i class="fa fa-check"></i><b>4</b> Beperkingen van het protocol {#sec: beperkingen}</a></li>
+<li class="chapter" data-level="5" data-path=""><a href="#principe"><i class="fa fa-check"></i><b>5</b> Principe</a></li>
+<li class="chapter" data-level="6" data-path=""><a href="#vereiste-competenties"><i class="fa fa-check"></i><b>6</b> Vereiste competenties</a></li>
+<li class="chapter" data-level="7" data-path=""><a href="#benodigdheden"><i class="fa fa-check"></i><b>7</b> Benodigdheden</a>
+<ul>
+<li class="chapter" data-level="7.1" data-path=""><a href="#apparatuur"><i class="fa fa-check"></i><b>7.1</b> Apparatuur</a>
+<ul>
+<li class="chapter" data-level="7.1.1" data-path=""><a href="#binoculaire-stereomicroscoop-enof-lichtmicroscoop"><i class="fa fa-check"></i><b>7.1.1</b> Binoculaire stereomicroscoop en/of lichtmicroscoop</a></li>
+<li class="chapter" data-level="7.1.2" data-path=""><a href="#gps"><i class="fa fa-check"></i><b>7.1.2</b> GPS</a></li>
+<li class="chapter" data-level="7.1.3" data-path=""><a href="#handcomputer-of-tablet-optioneel"><i class="fa fa-check"></i><b>7.1.3</b> Handcomputer of tablet (optioneel)</a></li>
+<li class="chapter" data-level="7.1.4" data-path=""><a href="#sonarapparatuur-bij-bootwerk"><i class="fa fa-check"></i><b>7.1.4</b> Sonarapparatuur (bij bootwerk)</a></li>
+</ul></li>
+<li class="chapter" data-level="7.2" data-path=""><a href="#materiaal"><i class="fa fa-check"></i><b>7.2</b> Materiaal</a>
+<ul>
+<li class="chapter" data-level="7.2.1" data-path=""><a href="#veldloep"><i class="fa fa-check"></i><b>7.2.1</b> Veldloep</a></li>
+<li class="chapter" data-level="7.2.2" data-path=""><a href="#vegetatiehark-met-telescopische-steel"><i class="fa fa-check"></i><b>7.2.2</b> Vegetatiehark met telescopische steel</a></li>
+<li class="chapter" data-level="7.2.3" data-path=""><a href="#dubbelzijdige-dreghark"><i class="fa fa-check"></i><b>7.2.3</b> Dubbelzijdige dreghark</a></li>
+<li class="chapter" data-level="7.2.4" data-path=""><a href="#hersluitbare-zakjes-en-alcoholstift"><i class="fa fa-check"></i><b>7.2.4</b> Hersluitbare zakjes en (alcohol)stift</a></li>
+<li class="chapter" data-level="7.2.5" data-path=""><a href="#secchi-schijf"><i class="fa fa-check"></i><b>7.2.5</b> Secchi-schijf</a></li>
+<li class="chapter" data-level="7.2.6" data-path=""><a href="#plooimeter"><i class="fa fa-check"></i><b>7.2.6</b> Plooimeter</a></li>
+<li class="chapter" data-level="7.2.7" data-path=""><a href="#determinatiewerken"><i class="fa fa-check"></i><b>7.2.7</b> Determinatiewerken</a></li>
+<li class="chapter" data-level="7.2.8" data-path=""><a href="#boot"><i class="fa fa-check"></i><b>7.2.8</b> Boot</a></li>
+</ul></li>
+<li class="chapter" data-level="7.3" data-path=""><a href="#reagentia-en-oplossingen-indien-van-toepassing"><i class="fa fa-check"></i><b>7.3</b> Reagentia en oplossingen (indien van toepassing)</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path=""><a href="#werkwijze"><i class="fa fa-check"></i><b>8</b> Werkwijze</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path=""><a href="#uitvoering"><i class="fa fa-check"></i><b>8.1</b> Uitvoering</a>
+<ul>
+<li class="chapter" data-level="8.1.1" data-path=""><a href="#voorafgaand-aan-het-terreinwerk"><i class="fa fa-check"></i><b>8.1.1</b> Voorafgaand aan het terreinwerk</a></li>
+<li class="chapter" data-level="8.1.2" data-path=""><a href="#lokaliseren-en-documenteren-van-veldlocatie"><i class="fa fa-check"></i><b>8.1.2</b> Lokaliseren en documenteren van veldlocatie</a></li>
+<li class="chapter" data-level="8.1.3" data-path=""><a href="#bepaling-aanwezige-habitattypen"><i class="fa fa-check"></i><b>8.1.3</b> Bepaling aanwezige habitattypen</a></li>
+<li class="chapter" data-level="8.1.4" data-path=""><a href="#vegetatieopname-sec-vegetatieopname"><i class="fa fa-check"></i><b>8.1.4</b> Vegetatieopname {#sec: vegetatieopname}</a></li>
+<li class="chapter" data-level="8.1.5" data-path=""><a href="#bedekking-van-groepen-van-soorten"><i class="fa fa-check"></i><b>8.1.5</b> Bedekking van groepen van soorten</a></li>
+<li class="chapter" data-level="8.1.6" data-path=""><a href="#structuurkenmerken"><i class="fa fa-check"></i><b>8.1.6</b> Structuurkenmerken</a></li>
+<li class="chapter" data-level="8.1.7" data-path=""><a href="#algemene-standplaatskenmerken"><i class="fa fa-check"></i><b>8.1.7</b> Algemene standplaatskenmerken</a></li>
+</ul></li>
+<li class="chapter" data-level="8.2" data-path=""><a href="#registratie-en-bewaring-van-resultaten"><i class="fa fa-check"></i><b>8.2</b> Registratie en bewaring van resultaten</a>
+<ul>
+<li class="chapter" data-level="8.2.1" data-path=""><a href="#invoer-veldgegevens"><i class="fa fa-check"></i><b>8.2.1</b> Invoer veldgegevens</a></li>
+<li class="chapter" data-level="8.2.2" data-path=""><a href="#determinaties"><i class="fa fa-check"></i><b>8.2.2</b> Determinaties</a></li>
+<li class="chapter" data-level="8.2.3" data-path=""><a href="#opslag-van-fotos"><i class="fa fa-check"></i><b>8.2.3</b> Opslag van foto’s</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path=""><a href="#kwaliteitszorg"><i class="fa fa-check"></i><b>9</b> Kwaliteitszorg</a></li>
+<li class="chapter" data-level="10" data-path=""><a href="#veiligheid"><i class="fa fa-check"></i><b>10</b> Veiligheid</a></li>
+<li class="chapter" data-level="11" data-path=""><a href="#samenvatting"><i class="fa fa-check"></i><b>11</b> Samenvatting</a></li>
+<li class="chapter" data-level="" data-path=""><a href="#referenties"><i class="fa fa-check"></i>Referenties</a></li>
+<li class="chapter" data-level="12" data-path=""><a href="#appendix-bijlagen-.unnumbered-sec-bijlage"><i class="fa fa-check"></i><b>12</b> (APPENDIX) Bijlagen {.unnumbered} {#sec: bijlage}</a>
+<ul>
+<li class="chapter" data-level="12.1" data-path=""><a href="#bijlage-1-determinatiewerken-sec-bijlage1"><i class="fa fa-check"></i><b>12.1</b> Bijlage 1: Determinatiewerken {#sec: bijlage1}</a>
+<ul>
+<li class="chapter" data-level="12.1.1" data-path=""><a href="#algemene-floras"><i class="fa fa-check"></i><b>12.1.1</b> Algemene flora’s</a></li>
+<li class="chapter" data-level="12.1.2" data-path=""><a href="#ge%C3%AFllustreerde-floras"><i class="fa fa-check"></i><b>12.1.2</b> Geïllustreerde flora’s</a></li>
+<li class="chapter" data-level="12.1.3" data-path=""><a href="#atlas"><i class="fa fa-check"></i><b>12.1.3</b> Atlas</a></li>
+<li class="chapter" data-level="12.1.4" data-path=""><a href="#herkenning-van-water--enof-oeverplanten"><i class="fa fa-check"></i><b>12.1.4</b> Herkenning van water- en/of oeverplanten</a></li>
+<li class="chapter" data-level="12.1.5" data-path=""><a href="#gerichte-determinatiewerken"><i class="fa fa-check"></i><b>12.1.5</b> Gerichte determinatiewerken</a></li>
+<li class="chapter" data-level="12.1.6" data-path=""><a href="#artikels"><i class="fa fa-check"></i><b>12.1.6</b> Artikels</a></li>
+</ul></li>
+<li class="chapter" data-level="12.2" data-path=""><a href="#bijlage-2-veldformulier-habitattype-2190_a-sec-bijlage2"><i class="fa fa-check"></i><b>12.2</b> Bijlage 2: Veldformulier habitattype 2190_a {#sec: bijlage2}</a></li>
+<li class="chapter" data-level="12.3" data-path=""><a href="#bijlage-3-veldformulier-habitattype-3110-sec-bijlage3"><i class="fa fa-check"></i><b>12.3</b> Bijlage 3: Veldformulier habitattype 3110 {#sec: bijlage3}</a></li>
+<li class="chapter" data-level="12.4" data-path=""><a href="#bijlage-4-veldformulier-habitattype-3130_aom-sec-bijlage4"><i class="fa fa-check"></i><b>12.4</b> Bijlage 4: Veldformulier habitattype 3130_aom {#sec: bijlage4}</a></li>
+<li class="chapter" data-level="12.5" data-path=""><a href="#bijlage-5-veldformulier-habitattype-3130_na-sec-bijlage5"><i class="fa fa-check"></i><b>12.5</b> Bijlage 5: Veldformulier habitattype 3130_na {#sec: bijlage5}</a></li>
+<li class="chapter" data-level="12.6" data-path=""><a href="#bijlage-6-veldformulier-habitattype-3140-sec-bijlage6"><i class="fa fa-check"></i><b>12.6</b> Bijlage 6: Veldformulier habitattype 3140 {#sec: bijlage6}</a></li>
+<li class="chapter" data-level="12.7" data-path=""><a href="#bijlage-7-veldformulier-habitattype-3150-sec-bijlage7"><i class="fa fa-check"></i><b>12.7</b> Bijlage 7: Veldformulier habitattype 3150 {#sec: bijlage7}</a></li>
+<li class="chapter" data-level="12.8" data-path=""><a href="#bijlage-8-veldformulier-habitattype-3160-sec-bijlage8"><i class="fa fa-check"></i><b>12.8</b> Bijlage 8: Veldformulier habitattype 3160 {#sec: bijlage8}</a></li>
+</ul></li>
+<li class="divider"></li>
+<li class="cc"><a href="http://creativecommons.org/licenses/by/4.0/"><img src="css/img/cc-by.png"></a></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Veldprotocol LSVI-bepaling stilstaande wateren</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+  <div id="header">
+    <h1 class="title">Veldprotocol LSVI-bepaling stilstaande wateren</h1>
+      <h2 class="subtitle">LSVI stilstaande wateren</h2>
+        <h3 class="author">An Leyssen
+          <a href="https://orcid.org/0000-0003-3537-286X">
+      <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+      0000-0003-3537-286X
+      </a>
+        </h3>
+          <address class="author_afil">
+      Instituut voor Natuur- en Bosonderzoek (INBO)
+              <br><a class="author_email" href="mailto:#"><a href="mailto:an.leyssen@inbo.be" class="email">an.leyssen@inbo.be</a></a>
+            </address>
+          <h3 class="author">Vincent Smeekens
+          <a href="https://orcid.org/0000-0003-2996-2716">
+      <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+      0000-0003-2996-2716
+      </a>
+        </h3>
+          <address class="author_afil">
+      Instituut voor Natuur- en Bosonderzoek (INBO)
+              <br><a class="author_email" href="mailto:#"><a href="mailto:vincent.smeekens@inbo.be" class="email">vincent.smeekens@inbo.be</a></a>
+            </address>
+          <h3 class="author">Jo Packet
+          <a href="https://orcid.org/0000-0001-5590-323X">
+      <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+      0000-0001-5590-323X
+      </a>
+        </h3>
+          <address class="author_afil">
+      Instituut voor Natuur- en Bosonderzoek (INBO)
+              <br><a class="author_email" href="mailto:#"><a href="mailto:jo.packet@inbo.be" class="email">jo.packet@inbo.be</a></a>
+            </address>
+          <h3 class="author">Kevin Scheers
+          <a href="https://orcid.org/0000-0002-4756-4247">
+      <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+      0000-0002-4756-4247
+      </a>
+        </h3>
+          <address class="author_afil">
+      Instituut voor Natuur- en Bosonderzoek (INBO)
+              <br><a class="author_email" href="mailto:#"><a href="mailto:kevin.scheers@inbo.be" class="email">kevin.scheers@inbo.be</a></a>
+            </address>
+          <h3 class="author">Florian Van Hecke
+          <a href="https://orcid.org/0009-0004-3499-2279">
+      <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+      0009-0004-3499-2279
+      </a>
+        </h3>
+          <address class="author_afil">
+      Instituut voor Natuur- en Bosonderzoek (INBO)
+              <br><a class="author_email" href="mailto:#"><a href="mailto:florian.vanhecke@inbo.be" class="email">florian.vanhecke@inbo.be</a></a>
+            </address>
+            <p class="date"><em>2025-10-09</em></p>
+      
+<div id="metadata" class="section level1 unnumbered hasAnchor">
+<h1>Metadata<a href="#metadata" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>Placeholder</p>
+
+</div>
+<div id="wijzigingen-t.o.v.-vorige-versies" class="section level1 hasAnchor" number="1">
+<h1><span class="header-section-number">1</span> Wijzigingen t.o.v. vorige versies<a href="#wijzigingen-t.o.v.-vorige-versies" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="section" class="section level2 hasAnchor" number="1.1">
+<h2><span class="header-section-number">1.1</span> <a href="../2025.01/index.html">2025.01</a><a href="#section" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li>…</li>
+</ul>
+<!--
+Omschrijf hier welke wijzigingen er gebeurd zijn ten opzichte van de vorige versie. 
+Vermeld bij elk versienummer, de reden van de wijziging en - wanneer relevant - een beknopte beschrijving van de wijziging.
+Gesorteerd van recent naar oud. 
+
+## [2020.02](../2020.02/index.html)
+
+- Toevoeging van ontbrekende stap in het stappenplan
+- Verbetering van schrijffouten
+
+## [2020.01](../2020.01/index.html)
+
+- Eerste versie van het protocol
+-->
+
+</div>
+</div>
+<div id="afhankelijkheden" class="section level1 hasAnchor" number="2">
+<h1><span class="header-section-number">2</span> Afhankelijkheden<a href="#afhankelijkheden" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>Placeholder</p>
+
+</div>
+<div id="onderwerp" class="section level1 hasAnchor" number="3">
+<h1><span class="header-section-number">3</span> Onderwerp<a href="#onderwerp" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="definities-en-afkortingen" class="section level2 hasAnchor" number="3.1">
+<h2><span class="header-section-number">3.1</span> Definities en afkortingen<a href="#definities-en-afkortingen" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p><strong>31xx</strong>: afkorting voor Natura2000-habitattypen 3110, 3130, 3140, 3150 en 3160</p>
+<p><strong>Habitattypen</strong> van stilstaand water die beschermd zijn door de habitatrichtlijn:</p>
+<ul>
+<li><strong>2190_a</strong> - Waterhoudende depressies in vochtige duinvalleien (Denys et al. 2021)</li>
+<li><strong>3110</strong> - Mineraalarme oligotrofe wateren van de Atlantische zandvlakten (<em>Littorelletalia uniflora</em>) (Decleer 2007, Scheers et al. 2020).</li>
+<li><strong>3130</strong> - Oligotrofe tot mesotrofe stilstaande wateren met vegetatie behorend tot de <em>Littorelletalia uniflora</em> en/of de <em>Isoeto-Nanojuncetea</em> (Decleer 2007, Scheers et al. 2020)
+<ul>
+<li><strong>3130_aom</strong>: subtype aom, subtype oeverkruid (<em>Littorelletea</em>)</li>
+<li><strong>3130_na</strong>: subtype na, subtype dwergbiezen (<em>Isoeto-Nanojuncetea</em>)</li>
+</ul></li>
+<li><strong>3150</strong> - Van nature eutrofe meren met vegetaties van het type <em>Magnopotamion</em> of <em>Hydrocharition</em> (Decleer 2007, Scheers et al. 2020)</li>
+<li><strong>3160</strong> - Dystrofe natuurlijke poelen en meren (Decleer 2007, Scheers et al. 2020)</li>
+</ul>
+<p><strong>Isoëtiden</strong>: laagblijvende rozetbladige planten met stevige, holle, lijn- of priemvormige bladeren bv. knolrus (<em>Juncus bulbosus</em>), oeverkruid (<em>Littorella uniflora</em>), waterlobelia (<em>Lobelia dortmanna</em>), pilvaren (<em>Pilularia globulifera</em>), …</p>
+<p><strong>LSVI</strong>: Lokale staat van instandhouding; instrument om lokaal de toestand van een habitattype te evalueren aan de hand van structuur- en vegetatiekenmerken (Oosterlynck et al. 2020).</p>
+<p><strong>Steekproefpunt</strong> of <strong>(veld)locatie</strong>: Voor het habitatkwaliteitsmeetnet (zie verder) komt de steekproefeenheid voor stilstaande wateren overeen met de watervlakkencode (Westra et al., 2022). Dit is het niveau waarop de biotische karakterisatie wordt beoogd.</p>
+</div>
+<div id="doelstelling-en-toepassingsgebied" class="section level2 hasAnchor" number="3.2">
+<h2><span class="header-section-number">3.2</span> Doelstelling en toepassingsgebied<a href="#doelstelling-en-toepassingsgebied" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Het doel van het veldprotocol is om gegevens te verzamelen van bepaalde indicatoren die een beoordeling van de LSVI toelaten voor habitattype 2190_a, 3110, 3130_aom, 3130_na, 3140, 3150 en 3160. Deze LSVI-indicatoren zijn beschreven door Oosterlynck et al. (2020).</p>
+<p>Het veldprotocol wordt gebruikt voor het bemonsteren van de steekproefpunten van het habitatkwaliteitsmeetnet voor bovengenoemde habitattypen. De selectiemethode van steekproefpunten is beschreven in het rapport over de habitatkwaliteitsmonitoring (Westra et al., 2014; Westra et al., 2022). Dit meetnet is geconcipieerd om de habitatkwaliteit van habitattypen van stilstaande wateren op Vlaams schaalniveau te kunnen inschatten. De resultaten van dit meetnet worden o.a. gebruikt voor de 6-jaarlijkse rapportage over de staat van instandhouding van de habitattypes 31xx en 2190_a aan de Europese Commissie.</p>
+
+</div>
+</div>
+<div id="beperkingen-van-het-protocol-sec-beperkingen" class="section level1 hasAnchor" number="4">
+<h1><span class="header-section-number">4</span> Beperkingen van het protocol {#sec: beperkingen}<a href="#beperkingen-van-het-protocol-sec-beperkingen" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<!--
+Alleen in te vullen indien van toepassing.
+Bespreek onder welke condities het protocol niet gebruikt kan worden of wanneer afwijkingen nodig zijn ten opzichte van het standaard protocol.
+Vermeld hier ook mogelijke interferenties, knelpunten, ...
+-->
+<p>In sommige omstandigheden kan er geen opname gemaakt worden. De reden hiervoor wordt genoteerd:</p>
+<ul>
+<li>Tijdelijk ongeschikt (tijdelijk niet toegankelijk door wegenwerken of inrichtingswerken, gevaarlijke hond, drooggevallen, te hoge waterstand, …): het loont in dit geval de moeite om de locatie later in het jaar of tijdens het volgende jaar opnieuw te bezoeken;</li>
+<li>Permanent ongeschikt (permanent niet toegankelijk, niet bereikbaar op een veilige manier, geen toestemming voor betreding, …).</li>
+</ul>
+<p>De vegetatieopnames worden uitgevoerd in het groeiseizoen van de water- en oeverplanten (mei-september). Afhankelijk van het habitattype en de verwachte soorten worden bepaalde opnames bij voorkeur vroeger of later in het groeiseizoen uitgevoerd (Zie Tabel @ref(tab:geschikte_maanden)) . Voor sommige habitattypen is een aanvullend veldbezoek tijdens het voorjaar noodzakelijk om sleutelsoorten te identificeren. Zo bereikt bijvoorbeeld Tolypella intricata, een kenmerkende soort voor habitattype 3140, een optimale groei in april-mei. Ook zijn voor de identificatie van waterranonkels bloeiende exemplaren nodig (mei-juni; habitattype 3130_aom). Indien nodig, kan de soortenlijst tijdens een later veldbezoek (augustus) aangevuld worden met soorten die hun optimum later in het groeiseizoen bereiken. Om de kans op afsterven van watervegetatie te minimaliseren, wordt aanbevolen de vegetatieopnames best voor eind september af te ronden. In eutrofe plassen kan lichtdeprivatie door algenbloei leiden tot vroegtijdig afsterven van watervegetatie, soms al vanaf juni. Daarnaast kunnen sommige wateren in de zomer sterk vertroebelen door intensieve recreatie of vroegtijdig gemaaid worden, waardoor opnames tijdig moeten plaatsvinden.</p>
+<p>Klimatologische factoren, zoals langdurige temperatuurextremen, kunnen de tijdelijke aan- of afwezigheid van vegetaties en specifieke indicatorsoorten beïnvloeden.</p>
+<table>
+<caption>Meest geschikte maanden voor vegetatieopname per habitattype. “x” = geschikt, “(x)” = minder geschikt, “-” = niet aangewezen. {#tab:geschikte_maanden}</caption>
+<colgroup>
+<col width="15%" />
+<col width="10%" />
+<col width="7%" />
+<col width="9%" />
+<col width="9%" />
+<col width="15%" />
+<col width="17%" />
+<col width="14%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>April</th>
+<th>Mei</th>
+<th>Juni</th>
+<th>Juli</th>
+<th>Augustus</th>
+<th>September</th>
+<th>Oktober</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2190_a</td>
+<td>-</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>(x)</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>3110</td>
+<td>-</td>
+<td>(x)</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>(x)</td>
+</tr>
+<tr class="odd">
+<td>3130_aom</td>
+<td>-</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>(x)</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>3130_na</td>
+<td>-</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>3140</td>
+<td>(x)</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>(x)</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>3150</td>
+<td>-</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>3160</td>
+<td>(x)</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+<div id="principe" class="section level1 hasAnchor" number="5">
+<h1><span class="header-section-number">5</span> Principe<a href="#principe" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<!--
+Korte omschrijving van de principes waarop het protocol gebaseerd is.
+Bijvoorbeeld het principe achter het nemen van mengmonsters, principe achter visueel inschatten van de bedekking van een plant, ...
+-->
+<p>De LSVI geeft inzichten in de kwaliteit van een habitat voor een bepaalde locatie op basis van de vegetatiesamenstelling en structuurkenmerken (Oosterlynck et al. 2020). De LSVI-indicatoren kunnen ingedeeld worden in drie categorieën: vegetatie, verstoring en habitatstructuur. Voor elke indicator wordt een grenswaarde gegeven om een gunstige toestand te onderscheiden van een ongunstige toestand. Via dit veldprotocol worden de nodige gegevens verzameld om alle LSVI-indicatoren van de habitattypen 2190_a en 31xx te kunnen beoordelen. De bepaling of berekening van deze status per LSVI-indicator en het globaal eindoordeel per locatie vormt geen onderdeel van dit protocol. Hierbij kan de LSVI-rekenmodule gebruikt worden (Lommelen et al. 2024).</p>
+
+</div>
+<div id="vereiste-competenties" class="section level1 hasAnchor" number="6">
+<h1><span class="header-section-number">6</span> Vereiste competenties<a href="#vereiste-competenties" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<!--
+Omschrijving van de basiskennis (bv. kennis van bepaalde soorten) en vaardigheden (bv. bepaalde apparatuur kunnen bedienen), die de gebruiker van het protocol moet hebben om het protocol op een gepaste manier te kunnen uitvoeren.
+Eventueel kan er verwezen worden naar bepaalde opleidingen.
+-->
+<p>Er is voldoende kennis van de veldkenmerken van macrofyten die in stilstaande wateren worden aangetroffen vereist. Daarnaast dient men vertrouwd te zijn met technieken om ze te kunnen identificeren. Het gebruik van de Secchi-schijf (protocol <a href="../2023.04/index.html">sfp-113-nl 2023.04</a>) moet bekend zijn.</p>
+<p>Daarnaast zijn volgende algemene competenties vereist (naar Bijkerk, 2014):</p>
+<ul>
+<li>Nauwkeurigheid:de uitvoering van veldmetingen en het vastleggen van veldwaarnemingen vereisen een grote mate van accuraatheid;</li>
+<li>Vermogen te plannen en te organiseren: bij de uitvoering van meetprogramma’s moeten tal van werkzaamheden gepland, georganiseerd en op elkaar afgestemd worden. De veldmedewerker moet in staat zijn om hier zelfstandig of in overleg met de projectleider uitvoering aan te geven;</li>
+<li>Zelfstandigheid: de veldmedewerker moet in staat zijn om het merendeel van de werkzaamheden zelfstandig (op locatie) uit te voeren;</li>
+<li>Vermogen tot samenwerken en communiceren;</li>
+<li>De veldmedewerker moet op de hoogte zijn van de na te leven veiligheidsprotocollen die gebonden zijn aan het uitvoeren van taken in, op en rond water. De veldmedewerker moet dan ook fysiek in staat kunnen zijn om dit protocol in veilige omstandigheden te kunnen uitvoeren (kunnen zwemmen, …).</li>
+</ul>
+
+</div>
+<div id="benodigdheden" class="section level1 hasAnchor" number="7">
+<h1><span class="header-section-number">7</span> Benodigdheden<a href="#benodigdheden" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>Placeholder</p>
+<div id="apparatuur" class="section level2 hasAnchor" number="7.1">
+<h2><span class="header-section-number">7.1</span> Apparatuur<a href="#apparatuur" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="binoculaire-stereomicroscoop-enof-lichtmicroscoop" class="section level3 hasAnchor" number="7.1.1">
+<h3><span class="header-section-number">7.1.1</span> Binoculaire stereomicroscoop en/of lichtmicroscoop<a href="#binoculaire-stereomicroscoop-enof-lichtmicroscoop" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="gps" class="section level3 hasAnchor" number="7.1.2">
+<h3><span class="header-section-number">7.1.2</span> GPS<a href="#gps" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="handcomputer-of-tablet-optioneel" class="section level3 hasAnchor" number="7.1.3">
+<h3><span class="header-section-number">7.1.3</span> Handcomputer of tablet (optioneel)<a href="#handcomputer-of-tablet-optioneel" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="sonarapparatuur-bij-bootwerk" class="section level3 hasAnchor" number="7.1.4">
+<h3><span class="header-section-number">7.1.4</span> Sonarapparatuur (bij bootwerk)<a href="#sonarapparatuur-bij-bootwerk" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+</div>
+<div id="materiaal" class="section level2 hasAnchor" number="7.2">
+<h2><span class="header-section-number">7.2</span> Materiaal<a href="#materiaal" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="veldloep" class="section level3 hasAnchor" number="7.2.1">
+<h3><span class="header-section-number">7.2.1</span> Veldloep<a href="#veldloep" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="vegetatiehark-met-telescopische-steel" class="section level3 hasAnchor" number="7.2.2">
+<h3><span class="header-section-number">7.2.2</span> Vegetatiehark met telescopische steel<a href="#vegetatiehark-met-telescopische-steel" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="dubbelzijdige-dreghark" class="section level3 hasAnchor" number="7.2.3">
+<h3><span class="header-section-number">7.2.3</span> Dubbelzijdige dreghark<a href="#dubbelzijdige-dreghark" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="hersluitbare-zakjes-en-alcoholstift" class="section level3 hasAnchor" number="7.2.4">
+<h3><span class="header-section-number">7.2.4</span> Hersluitbare zakjes en (alcohol)stift<a href="#hersluitbare-zakjes-en-alcoholstift" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="secchi-schijf" class="section level3 hasAnchor" number="7.2.5">
+<h3><span class="header-section-number">7.2.5</span> Secchi-schijf<a href="#secchi-schijf" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="plooimeter" class="section level3 hasAnchor" number="7.2.6">
+<h3><span class="header-section-number">7.2.6</span> Plooimeter<a href="#plooimeter" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="determinatiewerken" class="section level3 hasAnchor" number="7.2.7">
+<h3><span class="header-section-number">7.2.7</span> Determinatiewerken<a href="#determinatiewerken" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="boot" class="section level3 hasAnchor" number="7.2.8">
+<h3><span class="header-section-number">7.2.8</span> Boot<a href="#boot" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+</div>
+<div id="reagentia-en-oplossingen-indien-van-toepassing" class="section level2 hasAnchor" number="7.3">
+<h2><span class="header-section-number">7.3</span> Reagentia en oplossingen (indien van toepassing)<a href="#reagentia-en-oplossingen-indien-van-toepassing" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+
+</div>
+</div>
+<div id="werkwijze" class="section level1 hasAnchor" number="8">
+<h1><span class="header-section-number">8</span> Werkwijze<a href="#werkwijze" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>Placeholder</p>
+<div id="uitvoering" class="section level2 hasAnchor" number="8.1">
+<h2><span class="header-section-number">8.1</span> Uitvoering<a href="#uitvoering" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="voorafgaand-aan-het-terreinwerk" class="section level3 hasAnchor" number="8.1.1">
+<h3><span class="header-section-number">8.1.1</span> Voorafgaand aan het terreinwerk<a href="#voorafgaand-aan-het-terreinwerk" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="lokaliseren-en-documenteren-van-veldlocatie" class="section level3 hasAnchor" number="8.1.2">
+<h3><span class="header-section-number">8.1.2</span> Lokaliseren en documenteren van veldlocatie<a href="#lokaliseren-en-documenteren-van-veldlocatie" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="bepaling-aanwezige-habitattypen" class="section level3 hasAnchor" number="8.1.3">
+<h3><span class="header-section-number">8.1.3</span> Bepaling aanwezige habitattypen<a href="#bepaling-aanwezige-habitattypen" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="vegetatieopname-sec-vegetatieopname" class="section level3 hasAnchor" number="8.1.4">
+<h3><span class="header-section-number">8.1.4</span> Vegetatieopname {#sec: vegetatieopname}<a href="#vegetatieopname-sec-vegetatieopname" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="bedekking-van-groepen-van-soorten" class="section level3 hasAnchor" number="8.1.5">
+<h3><span class="header-section-number">8.1.5</span> Bedekking van groepen van soorten<a href="#bedekking-van-groepen-van-soorten" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="structuurkenmerken" class="section level3 hasAnchor" number="8.1.6">
+<h3><span class="header-section-number">8.1.6</span> Structuurkenmerken<a href="#structuurkenmerken" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="vertical-structuur" class="section level4 hasAnchor" number="8.1.6.1">
+<h4><span class="header-section-number">8.1.6.1</span> Vertical structuur<a href="#vertical-structuur" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+</div>
+<div id="horizontale-structuur" class="section level4 hasAnchor" number="8.1.6.2">
+<h4><span class="header-section-number">8.1.6.2</span> Horizontale structuur<a href="#horizontale-structuur" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+</div>
+</div>
+<div id="algemene-standplaatskenmerken" class="section level3 hasAnchor" number="8.1.7">
+<h3><span class="header-section-number">8.1.7</span> Algemene standplaatskenmerken<a href="#algemene-standplaatskenmerken" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="waterpeil" class="section level4 hasAnchor" number="8.1.7.1">
+<h4><span class="header-section-number">8.1.7.1</span> Waterpeil<a href="#waterpeil" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+</div>
+<div id="maximale-diepte" class="section level4 hasAnchor" number="8.1.7.2">
+<h4><span class="header-section-number">8.1.7.2</span> Maximale diepte<a href="#maximale-diepte" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+</div>
+<div id="helderheid-van-de-waterkolom" class="section level4 hasAnchor" number="8.1.7.3">
+<h4><span class="header-section-number">8.1.7.3</span> Helderheid van de waterkolom<a href="#helderheid-van-de-waterkolom" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+</div>
+<div id="bodemsubstraat" class="section level4 hasAnchor" number="8.1.7.4">
+<h4><span class="header-section-number">8.1.7.4</span> Bodemsubstraat<a href="#bodemsubstraat" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+</div>
+</div>
+</div>
+<div id="registratie-en-bewaring-van-resultaten" class="section level2 hasAnchor" number="8.2">
+<h2><span class="header-section-number">8.2</span> Registratie en bewaring van resultaten<a href="#registratie-en-bewaring-van-resultaten" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="invoer-veldgegevens" class="section level3 hasAnchor" number="8.2.1">
+<h3><span class="header-section-number">8.2.1</span> Invoer veldgegevens<a href="#invoer-veldgegevens" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="determinaties" class="section level3 hasAnchor" number="8.2.2">
+<h3><span class="header-section-number">8.2.2</span> Determinaties<a href="#determinaties" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="opslag-van-fotos" class="section level3 hasAnchor" number="8.2.3">
+<h3><span class="header-section-number">8.2.3</span> Opslag van foto’s<a href="#opslag-van-fotos" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+
+</div>
+</div>
+</div>
+<div id="kwaliteitszorg" class="section level1 hasAnchor" number="9">
+<h1><span class="header-section-number">9</span> Kwaliteitszorg<a href="#kwaliteitszorg" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<!--
+Vermeld alle acties bij het uitvoeren van het protocol om tot kwaliteitsvolle resultaten te komen.
+Daarnaast kan ook een checklist toegevoegd worden om na te gaan of alle stappen van het veldprotocol op een correcte manier doorlopen zijn (bv. Zijn alle velden in veldformulier ingevuld, zijn alle stalen gelabeld, ...).
+Indien er niet aan bepaalde kwaliteitscriteria voldaan wordt, kan er eventueel verwezen worden naar corrigerende maatregelen.
+In dit onderdeel kunnen ook bepaalde interkalibratie-oefeningen vermeld worden, die bijvoorbeeld voorafgaand aan elk veldseizoen worden uitgevoerd door de gebruikers van het protocol. 
+-->
+<ul>
+<li><p>De checklist van het veldmateriaal staat in Tabel <a href="#tab:Checklist"><strong>??</strong></a>. Dit materiaal is in goede staat en wordt meegenomen bij de uitvoering van het veldwerk.</p></li>
+<li><p>Het veldformulier wordt volledig ingevuld. Net na de inventarisatie wordt gecontroleerd of alle velden van het veldformulier zijn ingevuld.</p></li>
+<li><p>In INBOVEG zijn een aantal automatische controles ingebouwd of verplicht in te vullen velden aangeduid, waardoor de kans op foutief ingevoerde waarden wordt verminderd.</p></li>
+<li><p>Specimen die op het terrein niet op naam kunnen worden gebracht, worden meegenomen naar het labo ter identificatie. Bij twijfel wordt dit specimen voorgelegd aan derden ter controle.</p></li>
+<li><p>Voor elke in INBOVEG ingevoerde opname wordt gecontroleerd of het aantal en de bedekking van de ingevoerde soorten overeenkomt met deze van het veldformulier. Nadat alle opnames van een veldseizoen zijn ingevoerd in INBOVEG, wordt via query’s of kruistabellen gecontroleerd of alle kenmerken voor alle opnames werden ingevoerd in INBOVEG.</p></li>
+</ul>
+
+</div>
+<div id="veiligheid" class="section level1 hasAnchor" number="10">
+<h1><span class="header-section-number">10</span> Veiligheid<a href="#veiligheid" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<!--
+Alle aandachtspunten in verband met veilig werken.
+-->
+<ul>
+<li><p>Voor opnames in ondiepe wateren (waterdiepte &lt; 1 m) kan alleen op terrein worden gegaan; bij diepere wateren (&gt; 2 m) wordt steeds met 2 personen op het terrein gegaan. Voor wateren met een diepte tussen 1 en 2 m hangt het van de veldomstandigheden af of het veldwerk alleen kan uitgevoerd worden of niet.</p></li>
+<li><p>Neem steeds een hark of stevige stok mee bij het waden. Je kan er de waterdiepte mee peilen voor je in het water gaat; je kan deze gebruiken om je evenwicht te behouden of als hulpstuk gebruiken om uit het water te geraken bij steile oevers.</p></li>
+<li><p>De veldmedewerker beschikt steeds over een GSM en een lijst van nuttige telefoonnummers.</p></li>
+<li><p>Tijdens een opname in verontreinigd water draagt men waterdichte handschoenen; na de opname wast men de handen met ontsmettende zeep om het risico op besmetting te beperken.</p></li>
+<li><p>Voorzichtigheid is ten zeerste geboden bij diepe wateren, bij weke waterbodem en bij gladde of zeer steile taluds. In deze omstandigheden kan een alternatieve opnametechniek toegepast (zie @ref(sec: vegetatieopname) vegetatieopname – waterdiepte bepaalt de wijze van opname). Gebruik een reddingstouw of reddingsvest wanneer de situatie dit vereist.</p></li>
+<li><p>Bij bootwerk wordt er minstens met twee personen geïnventariseerd die voldoende ervaring hebben om de boot en uitrusting te bedienen. De boot, reddingsvesten en roeispanen zijn in goede staat en indien nodig gekeurd volgens de vereiste voorschriften. Bij uitval van de motor of in geval van nood kan de boot bediend worden door roeispanen (min. 2 stuks).</p></li>
+</ul>
+<p>Tijdens het veldwerk gelden volgende aanvullende veiligheidsregels:</p>
+<ul>
+<li><p>Algemene veiligheidsregels rond het werken in en nabij water (protocol in ontwikkeling sfp-112).</p></li>
+<li><p>Bioveiligheidsmaatregelen voor het voorkomen van de verspreiding van invasieve exoten (protocol in ontwikkeling sfp-015).</p></li>
+</ul>
+
+</div>
+<div id="samenvatting" class="section level1 hasAnchor" number="11">
+<h1><span class="header-section-number">11</span> Samenvatting<a href="#samenvatting" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<!--
+Een samenvattende opsomming van de te volgen stappen.
+Gebruik eventueel een stroomschema indien dit het protocol kan verduidelijken.
+-->
+<ul>
+<li><p>STAP 1. Voer de taken voorafgaand aan het veldbezoek uit en <strong>controleer de lijst met benodigdheden</strong> voor vertrek.</p></li>
+<li><p>STAP 2. <strong>Navigeer met GPS naar de locatie</strong>. Bepaal of de locatie geschikt is voor een vegetatie-opname. Is de locatie toegankelijk? Is het habitattype aanwezig (niet steeds op het eerste zicht te bepalen). Indien de plas ontoegankelijk is of geen habitat blijkt te bevatten wordt dit gedocumenteerd en wordt er geen opname gemaakt.</p></li>
+<li><p>STAP 3. <strong>Voer de vegetatieopname uit</strong>. Afhankelijk van de waterdiepte gebeurt dit op één van volgende manieren: door het water wadend, harkend vanuit het doorwaadbare deel, harkend vanaf de oever of met boot. Ook de <strong>standplaatskenmerken worden genoteerd</strong> op het veldformulier.</p></li>
+<li><p>STAP 4. Soorten die niet konden worden geïdentificeerd op terrein, worden binnen de week na bemonstering gedetermineerd. Gegevens worden ingegeven in INBOVEG indien dit nog niet is gebeurd op terrein.</p></li>
+</ul>
+
+</div>
+<div id="referenties" class="section level1 unnumbered hasAnchor">
+<h1>Referenties<a href="#referenties" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="refs">
+
+</div>
+<ul>
+<li><p>Bijkerk R. (2014). Handboek hydrobiologie. Deel 1. Biologisch onderzoek voor de ecologische beoordeling van Nederlandse zoete en brakke oppervlaktewateren. Stichting Toegepast Onderzoek Waterbeheer, Amersfoort.</p></li>
+<li><p>Decleer K. (2007). Europees beschermde natuur in Vlaanderen en het Belgisch deel van de Noordzee : habitattypen : dier- en plantensoorten. <em>Mededelingen van het Instituut voor Natuur- en Bosonderzoek</em> 2007(1). Instituut voor Natuur- en Bosonderzoek, Brussel.</p></li>
+<li><p>Denys L., Packet J., Provoost S. (2021). De vegetatie van duinwateren aan de Vlaamse kust. Kenmerken, beheer en lokale staat van instandhouding. <em>Rapporten van het Instituut voor Natuur- en Bosonderzoek</em> 2021 (39). Instituut voor Natuur- en Bosonderzoek, Brussel.</p></li>
+<li><p>Denys L. (2011). Advies over de bepaling van de vegetatieontwikkeling van submerse vegetatie en enkele aanpassingen m.b.t. de beoordeling van macrofyten in Vlaamse meren voor de Europese Kaderrichtlijn Water. <em>Adviezen van het Instituut voor Natuur- en Bosonderzoek</em> 2011 <em>(</em>109). Instituut voor Natuur- en Bosonderzoek, Brussel.</p></li>
+<li><p>Lommelen E., Oosterlynck P., Van Spaendonk G., Van Calster H., Van Hove M., Westra T. (2024). LSVI: Rekenmodule Lokale Staat Van Instandhouding van habitattypen. R package version 0.1.3, <a href="https://github.com/inbo/LSVI" class="uri">https://github.com/inbo/LSVI</a>.</p></li>
+<li><p>Scheers K., Packet J., Denys L., Smekens V., De Saeger S. (2016). BWK en Habitatkartering, een praktische handleiding. Deel 3 : veldsleutel voor het typeren van stilstaande wateren in Vlaanderen. <em>Rapporten van het Instituut voor Natuur- en Bosonderzoek</em> 2016 (11613720)<em>.</em> Instituut voor Natuur- en Bosonderzoek, Brussel.</p></li>
+<li><p>Schneiders A., Denys L., Jochems H., Vanhecke L., Triest L., Es K., Packet J., Knuysen K., Meire P. (2004). Ontwikkelen van een monitoringsysteem en een beoordelingssysteem voor macrofyten in oppervlaktewateren in Vlaanderen overeenkomstig de Europese Kaderrichtlijn Water. <em>Rapporten van het Instituut voor Natuurbehoud</em> 2004 (1). Instituut voor Natuurbehoud, Brussel.</p></li>
+<li><p>Oosterlynck P., De Saeger S., Leyssen A., Provoost S., Thomaes A., Vandevoorde B., Wouters J., &amp; Paelinckx D. (2020). Criteria voor de beoordeling van de lokale staat van instandhouding van de Natura2000 habitattypen in Vlaanderen. <em>Rapporten van het Instituut voor Natuur- en Bosonderzoek</em> 2020 (27). Instituut voor Natuur- en Bosonderzoek, Brussel. DOI: <a href="doi.org/10.21436/inbor.14061248">doi.org/10.21436/inbor.14061248</a></p></li>
+<li><p>Westra T., Oosterlynck P., Govaere L., Leyssen A., Denys L., Packet J., Scheers K., Vanderhaeghe F. and Vanden Borre J. (2022). Monitoring scheme for biotic habitat quality of Natura 2000 habitat types in Flanders, Belgium. Revision of the monitoring design. <em>Reports of the Research Institute for Nature and Forest</em> 2022 (25). Research Institute for Nature and Forest, Brussels. DOI: <a href="doi.org/10.21436/inbor.85829488">doi.org/10.21436/inbor.85829488</a></p></li>
+<li><p>Westra T., Oosterlynck P., Van Calster H., Paelinckx D., Denys L., Leyssen A., Packet J., Onkelinx T., Louette G, Waterinckx M en Quataert P (2014). Monitoring Natura 2000 - habitats: meetnet habitatkwaliteit. <em>Rapporten van het Instituut voor Natuur- en Bosonderzoek</em> 2014 (1414229). Instituut voor Natuur- en Bosonderzoek, Brussel.</p></li>
+</ul>
+
+</div>
+<div id="appendix-bijlagen-.unnumbered-sec-bijlage" class="section level1 hasAnchor" number="12">
+<h1><span class="header-section-number">12</span> (APPENDIX) Bijlagen {.unnumbered} {#sec: bijlage}<a href="#appendix-bijlagen-.unnumbered-sec-bijlage" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>Placeholder</p>
+<div id="bijlage-1-determinatiewerken-sec-bijlage1" class="section level2 hasAnchor" number="12.1">
+<h2><span class="header-section-number">12.1</span> Bijlage 1: Determinatiewerken {#sec: bijlage1}<a href="#bijlage-1-determinatiewerken-sec-bijlage1" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="algemene-floras" class="section level3 hasAnchor" number="12.1.1">
+<h3><span class="header-section-number">12.1.1</span> Algemene flora’s<a href="#algemene-floras" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="geïllustreerde-floras" class="section level3 hasAnchor" number="12.1.2">
+<h3><span class="header-section-number">12.1.2</span> Geïllustreerde flora’s<a href="#ge%C3%AFllustreerde-floras" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="atlas" class="section level3 hasAnchor" number="12.1.3">
+<h3><span class="header-section-number">12.1.3</span> Atlas<a href="#atlas" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="herkenning-van-water--enof-oeverplanten" class="section level3 hasAnchor" number="12.1.4">
+<h3><span class="header-section-number">12.1.4</span> Herkenning van water- en/of oeverplanten<a href="#herkenning-van-water--enof-oeverplanten" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="gerichte-determinatiewerken" class="section level3 hasAnchor" number="12.1.5">
+<h3><span class="header-section-number">12.1.5</span> Gerichte determinatiewerken<a href="#gerichte-determinatiewerken" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+<div id="artikels" class="section level3 hasAnchor" number="12.1.6">
+<h3><span class="header-section-number">12.1.6</span> Artikels<a href="#artikels" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+</div>
+</div>
+<div id="bijlage-2-veldformulier-habitattype-2190_a-sec-bijlage2" class="section level2 hasAnchor" number="12.2">
+<h2><span class="header-section-number">12.2</span> Bijlage 2: Veldformulier habitattype 2190_a {#sec: bijlage2}<a href="#bijlage-2-veldformulier-habitattype-2190_a-sec-bijlage2" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+</div>
+<div id="bijlage-3-veldformulier-habitattype-3110-sec-bijlage3" class="section level2 hasAnchor" number="12.3">
+<h2><span class="header-section-number">12.3</span> Bijlage 3: Veldformulier habitattype 3110 {#sec: bijlage3}<a href="#bijlage-3-veldformulier-habitattype-3110-sec-bijlage3" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+</div>
+<div id="bijlage-4-veldformulier-habitattype-3130_aom-sec-bijlage4" class="section level2 hasAnchor" number="12.4">
+<h2><span class="header-section-number">12.4</span> Bijlage 4: Veldformulier habitattype 3130_aom {#sec: bijlage4}<a href="#bijlage-4-veldformulier-habitattype-3130_aom-sec-bijlage4" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+</div>
+<div id="bijlage-5-veldformulier-habitattype-3130_na-sec-bijlage5" class="section level2 hasAnchor" number="12.5">
+<h2><span class="header-section-number">12.5</span> Bijlage 5: Veldformulier habitattype 3130_na {#sec: bijlage5}<a href="#bijlage-5-veldformulier-habitattype-3130_na-sec-bijlage5" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+</div>
+<div id="bijlage-6-veldformulier-habitattype-3140-sec-bijlage6" class="section level2 hasAnchor" number="12.6">
+<h2><span class="header-section-number">12.6</span> Bijlage 6: Veldformulier habitattype 3140 {#sec: bijlage6}<a href="#bijlage-6-veldformulier-habitattype-3140-sec-bijlage6" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+</div>
+<div id="bijlage-7-veldformulier-habitattype-3150-sec-bijlage7" class="section level2 hasAnchor" number="12.7">
+<h2><span class="header-section-number">12.7</span> Bijlage 7: Veldformulier habitattype 3150 {#sec: bijlage7}<a href="#bijlage-7-veldformulier-habitattype-3150-sec-bijlage7" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+</div>
+<div id="bijlage-8-veldformulier-habitattype-3160-sec-bijlage8" class="section level2 hasAnchor" number="12.8">
+<h2><span class="header-section-number">12.8</span> Bijlage 8: Veldformulier habitattype 3160 {#sec: bijlage8}<a href="#bijlage-8-veldformulier-habitattype-3160-sec-bijlage8" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" tabindex="-1"></a><span class="cf">if</span> (<span class="fu">exists</span>(<span class="st">&quot;params&quot;</span>)) {</span>
+<span id="cb1-2"><a href="#cb1-2" tabindex="-1"></a>  <span class="cf">if</span> (<span class="sc">!</span><span class="fu">is.null</span>(params<span class="sc">$</span>dependencies)) {</span>
+<span id="cb1-3"><a href="#cb1-3" tabindex="-1"></a>    mdfiles <span class="ot">&lt;-</span> <span class="fu">paste0</span>(<span class="fu">map_chr</span>(params<span class="sc">$</span>dependencies, <span class="st">&quot;protocol_code&quot;</span>),</span>
+<span id="cb1-4"><a href="#cb1-4" tabindex="-1"></a>                      <span class="st">&quot;-&quot;</span>,</span>
+<span id="cb1-5"><a href="#cb1-5" tabindex="-1"></a>                      <span class="fu">map_chr</span>(params<span class="sc">$</span>dependencies, <span class="st">&quot;version_number&quot;</span>),</span>
+<span id="cb1-6"><a href="#cb1-6" tabindex="-1"></a>                      <span class="st">&quot;.md&quot;</span>)</span>
+<span id="cb1-7"><a href="#cb1-7" tabindex="-1"></a>    child_docs <span class="ot">&lt;-</span> <span class="fu">file.path</span>(<span class="fu">map_chr</span>(params<span class="sc">$</span>dependencies, <span class="st">&quot;version_number&quot;</span>),</span>
+<span id="cb1-8"><a href="#cb1-8" tabindex="-1"></a>                            mdfiles)</span>
+<span id="cb1-9"><a href="#cb1-9" tabindex="-1"></a></span>
+<span id="cb1-10"><a href="#cb1-10" tabindex="-1"></a>    child_docs <span class="ot">&lt;-</span> child_docs[<span class="fu">map_lgl</span>(params<span class="sc">$</span>dependencies, <span class="st">&quot;appendix&quot;</span>)]</span>
+<span id="cb1-11"><a href="#cb1-11" tabindex="-1"></a></span>
+<span id="cb1-12"><a href="#cb1-12" tabindex="-1"></a>    <span class="cf">if</span> (<span class="fu">length</span>(child_docs) <span class="sc">&gt;</span> <span class="dv">0</span>) {</span>
+<span id="cb1-13"><a href="#cb1-13" tabindex="-1"></a>      res <span class="ot">&lt;-</span> <span class="fu">map</span>(child_docs, knit_child, <span class="at">quiet =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb1-14"><a href="#cb1-14" tabindex="-1"></a>      <span class="fu">cat</span>(</span>
+<span id="cb1-15"><a href="#cb1-15" tabindex="-1"></a>        <span class="fu">c</span>(<span class="st">&quot;# (PART) Subprotocols {.unnumbered}&quot;</span>, <span class="st">&quot;&quot;</span>, <span class="fu">unlist</span>(res)), <span class="at">sep =</span> <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span></span>
+<span id="cb1-16"><a href="#cb1-16" tabindex="-1"></a>      )</span>
+<span id="cb1-17"><a href="#cb1-17" tabindex="-1"></a>    }</span>
+<span id="cb1-18"><a href="#cb1-18" tabindex="-1"></a>  }</span>
+<span id="cb1-19"><a href="#cb1-19" tabindex="-1"></a>}</span></code></pre></div>
+
+</div>
+</div>
+
+<p>&nbsp;</p>
+<p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons-Licentie" style="border-width:0" src="css/img/cc-by.png" class = "cc"/></a>
+            </section>
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+  "sharing": {
+    "github": false,
+    "facebook": true,
+    "twitter": true,
+    "linkedin": false,
+    "weibo": false,
+    "instapaper": false,
+    "vk": false,
+    "whatsapp": false,
+    "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+  },
+  "fontsettings": {
+    "theme": "white",
+    "family": "sans",
+    "size": 2
+  },
+  "edit": {
+    "link": null,
+    "text": null
+  },
+  "history": {
+    "link": null,
+    "text": null
+  },
+  "view": {
+    "link": null,
+    "text": null
+  },
+  "download": null,
+  "search": {
+    "engine": "fuse",
+    "options": null
+  },
+  "toc": {
+    "collapse": "subsection"
+  }
+});
+});
+</script>
+
+
+</body>
+
+</html>

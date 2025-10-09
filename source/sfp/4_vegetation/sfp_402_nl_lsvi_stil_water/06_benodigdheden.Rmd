@@ -1,5 +1,11 @@
 # Benodigdheden
 
+```{=html}
+<!--
+Opsomming van benodigd materiaal, apparatuur, reagentia,...
+-->
+```
+
 Tabel \@ref(tab:Checklist) geeft een overzicht van de benodigde apparatuur en materiaal dat tijdens het veldwerk wordt gebruikt; enkele daarvan specifiëren we hieronder.
 
 |  |
