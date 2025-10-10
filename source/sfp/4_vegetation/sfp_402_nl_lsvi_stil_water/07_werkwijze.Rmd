@@ -324,7 +324,7 @@ analoog op een veldformulier (\@ref(sec: bijlage); Bijlage 2 t.e.m. 8).
 Soorten die in het veld niet op naam gebracht kunnen worden, kunnen tot
 hooguit één week gekoeld bewaard worden. Ze kunnen in het labo op naam
 gebracht worden met een loep, stereomicroscoop of lichtmicroscoop en
-relevante determinatiewerken (Bijlage xxx1xxx). Indien relevant, kunnen
+relevante determinatiewerken (Bijlage \@ref(sec: bijlage1)). Indien relevant, kunnen
 foto’s genomen worden. De geïdentificeerde specimen worden bewaard in
 een herbarium.
 
